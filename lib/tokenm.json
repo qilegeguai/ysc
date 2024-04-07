@@ -26,8 +26,8 @@
 "aliproxy":"",
 "aliproxy_url":"",
 "proxy":"",
-"danmu":false,
-"quark_danmu":false,
+"danmu":true,
+"quark_danmu":true,
 "quark_cookie":"_UP_A4A_11_=wb9641530c2547d1a1aa32ecf3c70042; _UP_D_=pc; _UP_30C_6A_=st9646201b9ysan6au8tooa6uof43w8w; _UP_TS_=sg1ca0a690732e4de8df5661ec77ea28707; _UP_E37_B7_=sg1ca0a690732e4de8df5661ec77ea28707; _UP_TG_=st9646201b9ysan6au8tooa6uof43w8w; _UP_335_2B_=1; __pus=6d6028bfb70b0888e6e151682d3c7abbAATWIQ31oKUHREEdqUxTGvqdQslWykmSmgcTFBXF3Eu+JTMNEEg48so0yLffYoon5Hiz47B3tSlegNJ9r6KHeQSx; __kp=ddcdb1c0-f420-11ee-9372-b9b497a749f0; __kps=AASo0yUQMR66UaY5bnCxJ+Q+; __ktd=pEmPXFKA1xKwhfrEEqFD0w==; __uid=AASo0yUQMR66UaY5bnCxJ+Q+; __puus=ecd0f520e9e46bed0a7a9b2dbd314162AAR1lKIKZs0a+Of77yWCZmk3H17vWuMPPXhfG6O/QVPb9GOxRtRObXx0MqVrlx975Z0pkxf0OueNvhoCRh2n/JJj8gMp9D3NIDm+6xDK0D0rm8RgcgRanIIfEVMpGHd11P97pMv+BCuuKGwayj6LlW8JEaoPvc+nXUwvuQrFwMFO8VLlu68pW2CMIR/PDk9Shwd253a3HM54IPdwgjbu+qG4",
 "uc_cookie":"",
 "thunder_username":"7758584520",
@@ -46,11 +46,15 @@
 "pikpak_proxy_onlyapi":false,
 "pikpak_danmu":true,
 "wgcf_key":"",
+"wgcf_key2":"",
 "wgcf_ipport":"",
 "wgcf_xray_url":"./xray.gz",
 "wgcf_json_url":"./wgcf.json",
 "wgcf_vless_id":"",
 "wgcf_vless_optname":"cdn-all.xn--b6gac.eu.org",
 "wgcf_vless_worker":"",
-"wgcf_vless_path":"/?ed=2048"
+"wgcf_vless_path":"/?ed=2048",
+"wgcf_vless_protocol":"vless",
+"wgcf_vless_network":"ws",
+"wgcf_vless_tls":false
 }
