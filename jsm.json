@@ -873,7 +873,7 @@
 		}],
 		"lives":[
 					{
-				"name": "live.js",
+				"name": "金沙电视一台",
 				"type": 0,
 				"url": "https://raw.gitcode.com/2401_82510411/js/raw/main/tv",
 				"playerType": 1,
@@ -882,7 +882,7 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "live.ipv6",
+				"name": "金沙电视二台",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/p/0/proxy/https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
 				"playerType": 1,
@@ -891,7 +891,7 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "live.ipv6.m3u",
+				"name": "金沙电视三台",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/p/0/proxy/https://live.fanmingming.com/tv/m3u/ipv6.m3u",
 				"playerType": 1,
@@ -900,7 +900,7 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "live.ipv6.local",
+				"name": "金沙电视四台",
 				"type": 0,
 				"url": "./lib/live.ipv6.txt",
 				"playerType": 1,
@@ -909,7 +909,7 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "live.fan",
+				"name": "金沙电视五台",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
 				"playerType": 1,
@@ -918,13 +918,13 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "YTLive",
+				"name": "金沙电视六台",
 				"type": 0,
 				"playerType": 1,
 				"url": "./lib/yo21.txt"
 			},
 			{
-				"name": "直播",
+				"name": "金沙电视七台",
 				"type": 0,
 				"playerType": 1,
 				"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
@@ -932,7 +932,7 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "TXT",
+				"name": "金沙电视八台",
 				"type": 0,
 				"playerType": 1,
 				"url": "http://home.jundie.top:81/Cat/tv/live.txt",
@@ -940,17 +940,9 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
 				"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
 			},
+			
 			{
-				"name": "18+",
-				"type": 0,
-				"playerType": 1,
-				"url": "https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-				"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-			},
-			{
-				"name": "Json",
+				"name": "金沙电视九台",
 				"type": 1,
 				"playerType": 1,
 				"url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
@@ -959,13 +951,40 @@
 				"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
 			},
 			{
-				"name": "live.feimao",
+				"name": "金沙电视十台",
 				"type": 0,
 				"playerType": 1,
 				"url": "http://127.0.0.1:10079/p/0/proxy/http://我不是.肥猫.live/TV/tvzb.txt",
 				"ua": "okhttp/3.12.13",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "成人18+电视台",
+				"type": 0,
+				"playerType": 1,
+				"url": "https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+			},
+			{
+				"name": "成人18+电视台二",
+				"type": 0,
+				"playerType": 1,
+				"url": "https://cyuan.netlify.app/tvbox/lives/18+/18+%E5%8D%83%E9%83%A8%E7%8B%AC%E5%AE%B6%E4%BC%A0%E5%AA%92%E6%97%A0%E6%B0%B4%E5%8D%B0%E6%9D%A5%E8%A2%ADtvlist.txt",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+			},
+			{
+				"name": "成人18+电视台三",
+				"type": 0,
+				"playerType": 1,
+				"url": "https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
 			},
 			{
 				"group":"redirect",
