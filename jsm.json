@@ -11,7 +11,130 @@
 			"indexs":1,
 			"ext": "./lib/douban.json"
 		},
-				{"key":"qiqi","name":"七七","type":3,"api":"csp_AppSeven","jar":" https://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/box/w.jar","searchable":1,"changeable":0},
+    
+            {
+            "key": "MFKYS",
+            "name": "🇹┃影视2K┃大全",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/xbpq.jar",
+            "ext": {
+                "站名": "夜泊金沙宾客专线",
+                "作者": "yydf",
+                "主页url": "https://qzy998-1.ysgq.xyz",
+                "地区": "地区：&&</p",
+                "年代": "年代：&&</p",
+                "语言": "语言：&&</p",
+                "类型": "类型：&&</p",
+                "导演": "导演：&&</p",
+                "主演": "演员：&&</p",
+                "简介": "夜泊金沙，梦里回家”+<div class=\"desc_txt cf ec-palytcji cor3\">&&</div>",
+                "搜索url": "/index.php/vod/search.html?wd={wd}",
+                "数组": "<div class=\"pack-packcover returl list-top-b\">&&</div",
+                "链接": "href=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "<span class=\"pack-prb hidden\">&&</span>",
+                "线路数组": "<a class=\"channelname swiper-slide&&</a>",
+                "线路名称": "</i>&nbsp;&&</span>",
+                "播放数组": "<ul class=\"content_playlist cf\">&&</ul>",
+                "播放列表": ">&&</a",
+                "分类url": "https://qzy998-1.ysgq.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#连续剧$2#动漫$4#综艺$3#记录片$5"
+            }
+        },
+            {
+      "key": "Panta",
+      "name": "🇹┃胖达2K┃秒播",
+      "type": 3,
+      "api": "csp_Panta",
+      "jar": "http://www.wya6.cn/tz/wypg.php",
+      "changeable": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/PG推送.json$$$https://www.91panta.cn/$$$null$$$1",
+      "timeout": 60
+    },
+	 {
+            "key": "TVB云播",
+            "name": "🇹┃云影2k┃秒播",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://drpy.cainisi.cf/js/TVB云播.js"
+        }, 
+        {
+      "key": "小胡",
+      "name": "🇹┃小胡2K┃秒播",
+      "searchable": 1,
+      "quickSearch": 1,
+      "type": 1,
+      "playerType": 1,
+      "api": "http://c.小胡.icu/api.php/provide/vod/"
+    },
+        {
+      "key": "嘿嘿",
+      "name": "🇹┃嘿嘿2K┃秒播",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="
+    },
+        {
+      "key": "49zy",
+      "name": "🇹┃四九2K┃秒播",
+      "type": 1,
+      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "纪录片",
+        "欧美剧",
+        "香港剧",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "喜剧片",
+        "动画片",
+        "犯罪片",
+        "韩国剧",
+        "动漫",
+        "电影",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "台湾剧",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "泰国剧",
+        "日剧",
+        "电影解说",
+        "奇幻片",
+        "灾难片",
+        "悬疑片",
+        "其他片",
+        "体育赛事",
+        "海外剧"
+      ]
+    },
+		
+	{"key":"qiqi","name":"七七","type":3,"api":"csp_AppSeven","jar":" https://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/box/w.jar","searchable":1,"changeable":0},
            
           {"key":"南瓜弹幕","name":"南瓜","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":" https://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/box/danmu.jar;md5;efd53a4017db2ea5d3e2de0dee5309ac"},
           {"key":"酷看弹幕","name":"酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":" https://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/box/danmu.jar;md5;efd53a4017db2ea5d3e2de0dee5309ac"},
@@ -78,7 +201,24 @@
             "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xzqcsa/ysc/372f3f2770e87db6b8da44ba9175c265f834e515/xzqzy/lib/jar.php",
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xzqcsa/ysc/372f3f2770e87db6b8da44ba9175c265f834e515/xzqzy/lib/Movie5.txt"
         },
-        
+        {
+      "key": "drpy_js_秋霞影院",
+      "name": "🇹┃秋霞2k┃秒播",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/秋霞.js"
+    }, 
+        {
+      "key": "亮亮",
+      "name": "🇹┃亮亮2k┃秒播",
+      "type": 3,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_AppYsV2",
+      "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
     
     
     
@@ -137,7 +277,15 @@
             "jar": "https://gh.con.sh/https://raw.githubusercontent.com/yylxhjgy/yylx/95bb226fff27b5dda2997d5fb7d5f81889f72a59/3.0/lib/1_spider.jar",
             "ext": "https://www.6080yy4.com"
         },
-      
+       {
+            "key": "天天",
+            "name": "🇹┃天天源┃秒播",
+            "type": 3,
+            "api": "csp_TTian",
+            "jar": "http://tc.feixunline.cn/down.php/2e85feb2888d9efb5b396258f22841ac.jar",
+            "playerType": 2,
+            "ext": "http://op.ysdqjs.cn"
+        },
         
      
      
