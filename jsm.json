@@ -161,6 +161,8 @@
    {"key":"晴天","name":"🎀晴天","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
   
    {"key":"九九六","name":"🎀九六","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/json/96.json"},
+		
+		 {"key":"18+","name":"18+","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt"},
      
 
  
