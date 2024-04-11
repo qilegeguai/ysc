@@ -248,7 +248,34 @@
       "filterable": 1,
       "ext": "./lib/xiaoxiao.json"
     },
-
+        {
+      "key": "drpy_js_四个圈儿",
+      "name": "VIP专线七",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/四个圈影视.js"
+    },
+	    {
+      "key": "zxzj",
+      "name": "VIP专线八",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzj.pro/"
+    },
+	        {
+      "key": "lurenjia",
+      "name": "VIP专线九",
+      "type": 1,
+      "api": "http://dytt996.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playUrl": "json:http://106.53.99.43:84/lzff.php?url="
+    },
+       
 		
 
 		
