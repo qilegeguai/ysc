@@ -47,6 +47,13 @@
                 "分类": "电影$1#连续剧$2#动漫$4#综艺$3#记录片$5"
             }
         },
+  {
+      "key": "drpy_js_两个BT",
+      "name": "金沙三线",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/两个BT.js"
+    },
 
 	 {
             "key": "TVB云播",
@@ -211,6 +218,39 @@
     
     
         {"key":"蚂蚁ys","name":"VIP专线三","type":3,"api":"csp_XBPQ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路标题":"<*>&&</*>","线路数组":">&&<[排序:线路5>线路1]","播放标题":"+>&&</a>","分类url":"https://www.mayiyingshi.tv/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电视剧&电影&综艺&动漫","分类值":"2&1&3&4"}},
+    {
+      "key": "花猫影视",
+      "name": "VIP专线四",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/huamao.json"
+    },
+		    {
+      "key": "看了么",
+      "name": "VIP专线五",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/看了吗.json"
+    },
+	    {
+      "key": "笑笑影视",
+      "name": "VIP专线六",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/xiaoxiao.json"
+    },
+
+		
+
 		
 	{
             "key": "罗汉拳",
