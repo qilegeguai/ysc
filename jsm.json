@@ -431,7 +431,21 @@
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
             }
         },
-    
+    { "key": "666",
+            "name": "午夜福利",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {"直接播放":"1",
+            "搜索链接后缀":"-1-1.html",
+            "搜索url":"https://luw666.ink/index.php/vodsearch/----------{pg}---.html?wd={wd}&submit=",
+            "分类": "国产传媒$160#日本$2#国产$1#韩国$4#欧美$5#动画$6",
+            "分类url": "https://luw666.ink/index.php/vodtype/{cateId}-{catePg}.html"
+            }
+        },
 
     {"key":"哔嘀","name":"💡哔嘀","type":3,"api":"csp_Bdys","jar":"http://w1.nxog.top:80/d/%E7%A7%BB%E7%A7%BB/ou.jar","searchable":1,"quickSearch":1,"filterable":1},
 		{
