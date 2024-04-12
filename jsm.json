@@ -462,6 +462,22 @@
             "直接播放":"1"
             }
         },
+								{ "key": "langqun",
+            "name": "成仁影院",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/XBPQ.jar",
+            "api": "csp_XBPQ",
+            "ext": {
+            "直接播放":"1",
+            "搜索url":"http://2028p.com/vodsearch/----------{pg}---.html?wd={wd}&submit=",
+            "分类": "无码$1#中文av$6#国产$2#制服巨乳$7#欧美$3#人妻乱伦$8#有码$4#日韩$9#自拍$10",
+            "分类url": "http://2028p.com/vodtype/{cateId}-{catePg}.html"
+            }
+        },
 
     {"key":"哔嘀","name":"💡哔嘀","type":3,"api":"csp_Bdys","jar":"http://w1.nxog.top:80/d/%E7%A7%BB%E7%A7%BB/ou.jar","searchable":1,"quickSearch":1,"filterable":1},
 		{
