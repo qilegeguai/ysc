@@ -1,5 +1,5 @@
 {
-	"spider":"http://175.24.189.226/box/tvbox/PG/pg.jar",
+	"spider":"./pg.jar",
 	"sites":[
 		{
 			"key": "豆瓣",
@@ -13,7 +13,7 @@
 		},
 		{
 			"key": "南瓜",
-			"name": "🎃南瓜┃App",
+			"name": "金沙VIP专线",
 			"type": 3,
 			"api": "csp_NanGua",
 			"timeout": 15,
@@ -24,7 +24,7 @@
 		  },
 		  {
 			"key": "农民",
-			"name": "🌾农民┃秒播",
+			"name": "金沙VIP专线二",
 			"type": 3,
 			"api": "csp_Nmys",
 			"timeout": 15,
@@ -35,13 +35,197 @@
 		  },
 		  {
 			"key": "七七",
-			"name": "👒七七┃秒播",
+			"name": "金沙VIP专线三",
 			"type": 3,
 			"api": "csp_Kunyu77",
 			"timeout": 15,
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1
+		  },
+		  {
+			"key": "YGP",
+			"name": "新片专场",
+			"type": 3,
+			"api": "csp_YGP",
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0
+		  },
+		  {
+			"key": "短剧",
+			"name": "无脑短剧",
+			"type": 3,
+			"api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+			"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0
+		  },
+		  {
+			"key": "酷看",
+			"name": "金沙特别线路",
+			"type": 3,
+			"api": "csp_Kkys",
+			"timeout": 15,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1
+		  },
+		  {
+			"key": "原创",
+			"name": "金沙特别线路二",
+			"type": 3,
+			"api": "csp_YCyz",
+			"timeout": 15,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1
+		  },
+		  {
+			"key": "苹果",
+			"name": "金沙特别线路三",
+			"type": 3,
+			"api": "csp_LiteApple",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1
+		  },
+		  {
+			"key": "白嫖",
+			"name": "金沙特别线路四",
+			"type": 3,
+			"api": "csp_BaiPiao",
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "https://www.baipiaoys.com:9092/"
+		  },
+		  {
+			"key": "视觉",
+			"name": "VIP直连",
+			"type": 3,
+			"api": "csp_Xinsj",
+			"timeout": 15,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "https://www.80yy3.com/"
+		  },
+		  {
+			"key": "厂长",
+			"name": "VIP直连二",
+			"type": 3,
+			"api": "csp_Czsapp",
+			"timeout": 15,
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "https://www.czys03.com/"
+		  },
+		  {
+			"key": "低端",
+			"name": "VIP外剧",
+			"type": 3,
+			"api": "csp_Ddrk",
+			"playerType": "2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1
+		  },
+		  {
+			"key": "毛驴",
+			"name": "VIP直连三",
+			"type": 3,
+			"api": "csp_MLYS",
+			"timeout": 15,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "https://www.maolvys.com/"
+		  },
+		  {
+			"key": "萌米",
+			"name": "VIP直连四",
+			"type": 3,
+			"api": "csp_AppTT",
+			"timeout": 15,
+			"playerType": 1,
+			"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+		  },
+		  {
+			"key": "比特",
+			"name": "VIP直连五",
+			"type": 3,
+			"api": "csp_Bttwoo",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1
+		  },
+		  {
+			"key": "一起看 ",
+			"name": "VIP直连六",
+			"type": 3,
+			"api": "csp_YQKan",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1
+		  },
+		  {
+			"key": "zxzj",
+			"name": "VIP外剧二",
+			"type": 3,
+			"api": "csp_Zxzj",
+			"timeout": 15,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "https://www.zxzja.com/"
+		  },
+		  {
+			"key": "Lib",
+			"name": "金沙特区专线",
+			"type": 3,
+			"api": "csp_Libvio",
+			"timeout": 15,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "https://www.libvio.pw/"
+		  },
+		  {
+			"key": "Auete",
+			"name": "金沙特区专线二",
+			"type": 3,
+			"api": "csp_Auete",
+			"timeout": 15,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "https://auete.pro/"
+		  },
+		  {
+			"key": "贱贱",
+			"name": "金沙特区专线三",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"playerType": "1",
+			"api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+			"ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/荐片.js"
+		  },
+		  {
+			"key": "新6V",
+			"name": "金沙特区专线四",
+			"type": 3,
+			"api": "csp_SixV",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "http://www.xb6v.com/"
 		  },
 		{
 			"key": "网盘配置",
