@@ -11,6 +11,15 @@
 			"indexs":1,
 			"ext": "./lib/douban.json"
 		},
+		    {
+      "key": "南瓜",
+      "name": "南瓜1",
+      "type": 3,
+      "api": "csp_AppYSDQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 		{
 			"key": "南瓜",
 			"name": "金沙VIP专线",
