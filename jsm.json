@@ -19,7 +19,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-"ext": "http://175.24.189.226/box/tvbox/PG/pg.jar"		    
+      "ext": {
+        "danmu": true
+      },
+      "jar": "http://175.24.189.226/box/tvbox/PG/pg.jar"
     },
 		{
 			"key": "南瓜",
