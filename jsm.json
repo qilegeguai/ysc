@@ -12,7 +12,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "warningText": "玉玉软件库：网络收集接口，请勿贩卖，每次打开记得长按主页刷新",
+  "warningText": "每次打开记得长按主页刷新",
   "sites": [
     {
       "key": "T4-nongmin",
@@ -22,7 +22,7 @@
     },
     {
       "key": "豆瓣",
-      "name": "🅱「公众号玉玉软件库」ㅤ官网:yyrj.xyz",
+      "name": "夜泊金沙专线",
       "type": 3,
       "api": "csp_Douban",
       "jar": "./lib/xc14.jar",
@@ -1656,34 +1656,7 @@
       "filterable": 0,
       "ext": "./lib/qie.json"
     },
-    {
-      "key": "push_agent",
-      "name": "🆙手机┃推送",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "playerType": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "yy",
-      "name": "❌公众号",
-      "type": 3,
-      "api": "csp_yy",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "xh1",
-      "name": "❌玉玉软件",
-      "type": 3,
-      "api": "csp_xh",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    }
+
   ],
   "parses": [
     {
