@@ -22,7 +22,7 @@
       "ext": {
         "danmu": true
       },
-      "jar": "http://175.24.189.226/box/tvbox/PG/pg.jar"
+      "jar": "./lib/txt.jar"
     },
 		{
 			"key": "南瓜",
