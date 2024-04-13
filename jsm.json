@@ -1,5 +1,5 @@
 {
-	"spider":"./pg.jar",
+	"spider":"http://175.24.189.226/box/tvbox/PG/pg.jar",
 	"sites":[
 		{
 			"key": "豆瓣",
