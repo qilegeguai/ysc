@@ -21,7 +21,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/xbpq.jar",
+            "jar": "./lib/XBPQ.jar",
             "ext": {
                 "站名": "夜泊金沙宾客专线",
                 "作者": "yydf",
