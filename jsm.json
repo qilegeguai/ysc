@@ -864,7 +864,7 @@
     },
     {
       "key": "997",
-      "name": "9️⃣997",
+      "name": "金沙尊享线一",
       "type": 3,
       "api": "csp_Web608",
       "searchable": 1,
@@ -875,7 +875,7 @@
     },
     {
       "key": "csp_XBPQ_6V",
-      "name": "🌙6V",
+      "name": "金沙尊享线二",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -885,7 +885,7 @@
     },
     {
       "key": "csp_星辰",
-      "name": "💫 星辰",
+      "name": "金沙尊享线三",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -895,7 +895,7 @@
     },
     {
       "key": "sc影视",
-      "name": "🌸 盛城",
+      "name": "金沙尊享线三",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -905,7 +905,7 @@
     },
     {
       "key": "看片狂人",
-      "name": "🧩狂人",
+      "name": "金沙尊享线四",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -924,7 +924,7 @@
     },
     {
       "key": "晴天",
-      "name": "🎀晴天",
+      "name": "金沙尊享线五",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -934,7 +934,7 @@
     },
     {
       "key": "九九六",
-      "name": "🎀九六",
+      "name": "金沙尊享线六",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -944,7 +944,7 @@
     },
     {
       "key": "爱看",
-      "name": "❤️爱看",
+      "name": "金沙尊享线七",
       "type": 3,
       "jar": "./lib/zf.jar",
       "api": "csp_XBPQ",
@@ -979,7 +979,7 @@
     },
     {
       "key": "哔嘀",
-      "name": "💡哔嘀",
+      "name": "哔站二线",
       "type": 3,
       "api": "csp_Bdys",
       "jar": "./lib/ou.jar",
@@ -988,18 +988,8 @@
       "filterable": 1
     },
     {
-      "key": "更多资源",
-      "name": "🛒软件下载",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./lib/gzh.json",
-      "jar": "./lib/fm商店.jar"
-    },
-    {
       "key": "YiSo",
-      "name": "💮一搜",
+      "name": "云盘搜一",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -1010,7 +1000,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "💮盘搜",
+      "name": "云盘搜二",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -1021,7 +1011,7 @@
     },
     {
       "key": "csp_CandyMuj_taoju",
-      "name": "💖淘剧",
+      "name": "金沙剧场专线",
       "type": 3,
       "api": "csp_CandyMuj_taoju",
       "jar": "./lib/candymuj.jar",
@@ -1031,7 +1021,7 @@
     },
     {
       "key": "csp_BTPiaoHua",
-      "name": "💕飘花",
+      "name": "金沙剧场二线",
       "type": 3,
       "api": "csp_BTPiaoHua",
       "jar": "./lib/candymuj.jar",
@@ -1039,7 +1029,7 @@
     },
     {
       "key": "机器人",
-      "name": "🤖机器人",
+      "name": "AI机器人",
       "type": 3,
       "api": "csp_Ikanbot",
       "searchable": 1,
@@ -1048,7 +1038,7 @@
     },
     {
       "key": "宅腐APP",
-      "name": "🦄宅腐",
+      "name": "金沙剧场三线",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -1058,7 +1048,7 @@
     },
     {
       "key": "新建",
-      "name": "👰新新",
+      "name": "金沙剧场四线",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -1068,7 +1058,7 @@
     },
     {
       "key": "49zy",
-      "name": "🍚四九",
+      "name": "金沙剧场五线",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -1158,7 +1148,7 @@
     },
     {
       "key": "csp_Mp4Mov",
-      "name": "🧲 Mp4",
+      "name": "磁力巴",
       "type": 3,
       "api": "csp_Mp4Mov",
       "searchable": 1,
@@ -1168,7 +1158,7 @@
     },
     {
       "key": "俊俊",
-      "name": "🌀瑞丰",
+      "name": "金沙影院四线",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -1179,7 +1169,7 @@
     },
     {
       "key": "zycj_天天",
-      "name": "📅天天",
+      "name": "金沙影院三线",
       "type": 1,
       "searchable": 1,
       "changeable": 1,
@@ -1195,7 +1185,7 @@
     },
     {
       "key": "drpy_酷6",
-      "name": "📣酷6",
+      "name": "金沙影院二线",
       "type": 3,
       "playerType": 2,
       "api": "./lib/drpy2.min.js",
@@ -1203,7 +1193,7 @@
     },
     {
       "key": "csp_非凡资源",
-      "name": "🆕非凡",
+      "name": "金沙影院一线",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
       "playurl": "https://tvmvip.com/lz2.php?url=",
@@ -1240,7 +1230,7 @@
     },
     {
       "key": "量子资源",
-      "name": "🔃量子",
+      "name": "金沙蓝光专线"
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "playurl": "json:https://tvmvip.com/lz2.php?url=",
@@ -1266,7 +1256,7 @@
     },
     {
       "key": "csp_xml_天空",
-      "name": "🌞天空",
+      "name": "金沙蓝光专线二",
       "type": 1,
       "api": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list",
       "searchable": 1,
@@ -1307,7 +1297,7 @@
     },
     {
       "key": "csp_xml_暴风",
-      "name": "🌊暴风",
+      "name": "金沙蓝光专线三",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -1348,7 +1338,7 @@
     },
     {
       "key": "csp_xml_红牛",
-      "name": "🐮红牛",
+      "name": "金沙蓝光专线四",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1392,7 +1382,7 @@
     },
     {
       "key": "csp_xml_飞速",
-      "name": "🚁飞速",
+      "name": "金沙蓝光专线五",
       "type": 1,
       "api": "https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -1433,7 +1423,7 @@
     },
     {
       "key": "csp_xml_优质",
-      "name": "🗿优质",
+      "name": "金沙蓝光专线六",
       "type": 1,
       "api": "https://api.1080zyku.com/inc/api_mac10.php?ac=list",
       "searchable": 1,
@@ -1471,7 +1461,7 @@
     },
     {
       "key": "csp_xml_新浪",
-      "name": "🐺新浪",
+      "name": "金沙蓝光专线七",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -1510,7 +1500,7 @@
     },
     {
       "key": "卧龙资源",
-      "name": "🐉卧龙",
+      "name": "金沙蓝光专线八",
       "type": 1,
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1555,7 +1545,7 @@
     },
     {
       "key": "csp_xml_百度",
-      "name": "🆔百度",
+      "name": "金沙蓝光专线九",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -1599,7 +1589,7 @@
     },
     {
       "key": "meowtv_lzzy",
-      "name": "🎪量子",
+      "name": "金沙蓝光专线十",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1625,7 +1615,7 @@
     },
     {
       "key": "csp_xml_ckzy",
-      "name": "🈁CK",
+      "name": "尊享贵宾专线",
       "type": 1,
       "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -1671,7 +1661,7 @@
     },
     {
       "key": "csp_xml_ikun",
-      "name": "🆖ikun",
+      "name": "尊享贵宾专线二",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
       "searchable": 1,
@@ -1747,7 +1737,7 @@
     },
     {
       "key": "小灯塔科学",
-      "name": "🌏小灯塔科学",
+      "name": "科学科普",
       "type": 3,
       "api": "csp_Bili",
       "jar": "http://www.wya6.cn/tz/wyxy.php",
@@ -1758,7 +1748,7 @@
     },
     {
       "key": "小灯塔地理",
-      "name": "🌏小灯塔地理",
+      "name": "地理知识",
       "type": 3,
       "api": "csp_Bili",
       "jar": "http://www.wya6.cn/tz/wyxy.php",
@@ -1769,7 +1759,7 @@
     },
     {
       "key": "小灯塔百科",
-      "name": "🌏小灯塔百科",
+      "name": "社会百科",
       "type": 3,
       "api": "csp_Bili",
       "jar": "http://www.wya6.cn/tz/wyxy.php",
@@ -1780,7 +1770,7 @@
     },
     {
       "key": "小灯塔国学",
-      "name": "🌏小灯塔国学",
+      "name": "国家学院",
       "type": 3,
       "api": "csp_Bili",
       "jar": "http://www.wya6.cn/tz/wyxy.php",
@@ -1791,7 +1781,7 @@
     },
     {
       "key": "幼儿教育",
-      "name": "📚幼小┃衔接",
+      "name": "育儿教育",
       "type": 3,
       "api": "csp_Bili",
       "jar": "http://www.wya6.cn/tz/wyxy.php",
@@ -1802,7 +1792,7 @@
     },
     {
       "key": "dr_兔小贝",
-      "name": "📚儿童┃启蒙",
+      "name": "儿童乐园",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/兔小贝.js",
@@ -1816,7 +1806,7 @@
     },
     {
       "key": "少儿教育",
-      "name": "📚少儿┃教育",
+      "name": "少儿教育",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -1830,7 +1820,7 @@
     },
     {
       "key": "小学课堂",
-      "name": "📚小学┃课堂",
+      "name": "小学课堂",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -1844,7 +1834,7 @@
     },
     {
       "key": "初中课堂",
-      "name": "📚初中┃课堂",
+      "name": "初中课堂",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -1858,7 +1848,7 @@
     },
     {
       "key": "高中教育",
-      "name": "📚高中┃课堂",
+      "name": "高中课堂",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -1872,7 +1862,7 @@
     },
     {
       "key": "软件",
-      "name": "🅱软件┃教程",
+      "name": "软件教程",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1883,7 +1873,7 @@
     },
     {
       "key": "学习园地",
-      "name": "🅱学习┃园地",
+      "name": "学习园地",
       "type": 3,
       "api": "csp_Bili",
       "jar": "http://www.wya6.cn/tz/wyxy.php",
@@ -1894,7 +1884,7 @@
     },
     {
       "key": "学外语",
-      "name": "🅱学习┃外语",
+      "name": "学习外语",
       "type": 3,
       "api": "csp_Bili",
       "jar": "http://www.wya6.cn/tz/wyxy.php",
@@ -1905,7 +1895,7 @@
     },
     {
       "key": "兴趣健身",
-      "name": "🅱兴趣┃健身",
+      "name": "兴趣健身",
       "type": 3,
       "api": "csp_Bili",
       "jar": "http://www.wya6.cn/tz/wyxy.php",
@@ -1916,7 +1906,7 @@
     },
     {
       "key": "相声小品",
-      "name": "🅱相声┃小品",
+      "name": "相声小品",
       "type": 3,
       "api": "csp_Bili",
       "jar": "http://www.wya6.cn/tz/wyxy.php",
@@ -1927,7 +1917,7 @@
     },
     {
       "key": "美食",
-      "name": "🅱天下┃美食",
+      "name": "天下美食",
       "type": 3,
       "api": "csp_Bili",
       "jar": "http://www.wya6.cn/tz/wyog.php",
@@ -1938,7 +1928,7 @@
     },
     {
       "key": "戏曲杂苑",
-      "name": "🅱戏曲┃杂苑",
+      "name": "戏曲杂苑",
       "type": 3,
       "api": "csp_Bili",
       "jar": "http://www.wya6.cn/tz/wyxy.php",
@@ -1985,7 +1975,7 @@
     },
     {
       "key": "push_agent",
-      "name": "🆙手机┃推送",
+      "name": "手机┃推送",
       "type": 3,
       "api": "csp_PushAgent",
       "playerType": 1,
