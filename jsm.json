@@ -53,16 +53,7 @@
   "ua": "okhttp/3.15",
   "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
   "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-},
-{
-  "name": "金沙电视五",
-  "type": 0,
-  "url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/dxawi/0/main/tvli
-  "playerType": 1,
-  "ua": "okhttp/3.15",
-  "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-  "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-},
+}
   ],
   "warningText": "每次打开记得长按主页刷新",
   "sites": [
