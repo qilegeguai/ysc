@@ -186,7 +186,7 @@
       "key": "一起看 ",
       "name": "🎉一起┃App",
       "type": 3,
-      "jar": "./lib/fty.jar",
+      "jar": "./lib/apg.jar",
       "api": "csp_YQKan",
       "searchable": 1,
       "quickSearch": 1,
