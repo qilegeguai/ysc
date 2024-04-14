@@ -129,7 +129,7 @@
     },
         {
       "key": "YGP",
-      "name": "🚀叨观荐影┃新片",
+      "name": "新片速递",
       "type": 3,
       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712916456808/fan.txt",
       "api": "csp_YGP",
@@ -139,7 +139,7 @@
     },
     {
       "key": "短剧",
-      "name": "🌈上头┃短剧",
+      "name": "恋爱脑♥短剧",
       "type": 3,
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
@@ -149,7 +149,7 @@
     },
     {
       "key": "酷看",
-      "name": "💡酷看┃秒播",
+      "name": "金沙VIP线路",
       "type": 3,
        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712916456808/fan.txt",
       "api": "csp_Kkys",
@@ -160,7 +160,7 @@
     },
     {
       "key": "原创",
-      "name": "☀原创┃无广",
+      "name": "☀金沙VIP线路二",
       "type": 3,
        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712916456808/fan.txt",
       "api": "csp_YCyz",
@@ -171,7 +171,7 @@
     },
     {
       "key": "苹果",
-      "name": "🍎苹果┃无广",
+      "name": "金沙VIP线路三",
       "type": 3,
        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712916456808/fan.txt",
       "api": "csp_LiteApple",
@@ -181,7 +181,7 @@
     },
     {
       "key": "白嫖",
-      "name": "👻白飘┃无广",
+      "name": "金沙VIP线路四",
       "type": 3,
        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712916456808/fan.txt",
       "api": "csp_BaiPiao",
@@ -193,7 +193,7 @@
     },
     {
       "key": "视觉",
-      "name": "👓视觉┃直连",
+      "name": "金沙VIP线路五",
       "type": 3,
        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712916456808/fan.txt",
       "api": "csp_Xinsj",
@@ -205,7 +205,7 @@
     },
     {
       "key": "厂长",
-      "name": "📔厂长┃无广",
+      "name": "金沙VIP线路六",
       "type": 3,
        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712916456808/fan.txt",
       "api": "csp_Czsapp",
@@ -218,7 +218,7 @@
     },
     {
       "key": "南瓜",
-      "name": "🎃南瓜┃App",
+      "name": "金沙特线一",
       "type": 3,
        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712916456808/fan.txt",
       "api": "csp_NanGua",
@@ -230,7 +230,7 @@
     },
     {
       "key": "农民",
-      "name": "🌾农民┃秒播",
+      "name": "金沙特线二",
       "type": 3,
       "api": "csp_Nmys",
       "timeout": 15,
@@ -241,7 +241,7 @@
     },
     {
       "key": "七七",
-      "name": "👒七七┃秒播",
+      "name": "金沙特线三",
       "type": 3,
        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712916456808/fan.txt",
       "api": "csp_Kunyu77",
@@ -252,7 +252,7 @@
     },
     {
       "key": "低端",
-      "name": "⏮️低端┃外剧",
+      "name": "金沙外剧专线",
       "type": 3,
        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712916456808/fan.txt",
       "api": "csp_Ddrk",
@@ -263,7 +263,7 @@
     },
     {
       "key": "毛驴",
-      "name": "🍓毛驴┃直连",
+      "name": "金沙特线四",
       "type": 3,
        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712916456808/fan.txt",
       "api": "csp_MLYS",
@@ -275,7 +275,7 @@
     },
     {
       "key": "萌米",
-      "name": "👀萌米┃App",
+      "name": "金沙特线五",
       "type": 3,
        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712916456808/fan.txt",
       "api": "csp_AppTT",
@@ -285,7 +285,7 @@
     },
     {
       "key": "比特",
-      "name": "🍄比特┃秒播",
+      "name": "金沙特线六",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -294,7 +294,7 @@
     },
     {
       "key": "一起看 ",
-      "name": "🎉一起┃App",
+      "name": "金沙特线七",
       "type": 3,
        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712916456808/fan.txt",
       "api": "csp_YQKan",
@@ -304,7 +304,7 @@
     },
     {
       "key": "zxzj",
-      "name": "🍊在线┃外剧",
+      "name": "金沙外剧专线二",
       "type": 3,
        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712916456808/fan.txt",
       "api": "csp_Zxzj",
@@ -316,7 +316,7 @@
     },
     {
       "key": "Lib",
-      "name": "🌟立播┃直连",
+      "name": "金沙贵宾专线",
       "type": 3,
        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712916456808/fan.txt",
       "api": "csp_Libvio",
@@ -328,7 +328,7 @@
     },
     {
       "key": "Auete",
-      "name": "🏝奥特┃直连",
+      "name": "金沙贵宾专线一",
       "type": 3,
        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712916456808/fan.txt",
       "api": "csp_Auete",
@@ -340,7 +340,7 @@
     },
     {
       "key": "贱贱",
-      "name": "🐭贱贱┃p2p",
+      "name": "金沙贵宾专线二",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -351,13 +351,13 @@
     },
     {
       "key": "T4-nongmin",
-      "name": "农民影视",
+      "name": "贵宾专线一",
       "type": 4,
       "api": "https://catbox.n13.club/nongmin.php"
     },
     {
       "key": "电影狗影视",
-      "name": "🔥电影狗🔥",
+      "name": "贵宾专线二",
       "type": 3,
       "jar": "./lib/XBPQ.jar",
       "api": "csp_XBPQ",
@@ -371,7 +371,7 @@
     },
     {
       "key": "聚米影视",
-      "name": "🔥剧迷影视🔥",
+      "name": "贵宾专线三",
       "type": 3,
       "jar": "./lib/XBPQ.jar",
       "api": "csp_XBPQ",
@@ -385,7 +385,7 @@
     },
     {
       "key": "COKEMV影视",
-      "name": "🔥COKEMV影视🔥",
+      "name": "贵宾专线四",
       "type": 3,
       "jar": "./lib/XBPQ.jar",
       "api": "csp_XBPQ",
@@ -399,7 +399,7 @@
     },
     {
       "key": "dushe影视",
-      "name": "🔥首播影视🔥",
+      "name": "贵宾专线五",
       "type": 3,
       "jar": "./lib/XBPQ.jar",
       "api": "csp_XBPQ",
@@ -415,7 +415,7 @@
       "ext": "eyJhcGkiOiJodHRwOi8vMTE3LjcyLjQ1LjIwOjQ1NjciLCJ0b2tlbiI6IjMwNTMwNmNzYSJ9",
       "filterable": 1,
       "quickSearch": 1,
-      "name": "🔥丫仙女🔥",
+      "name": "家庭线路",
       "changeable": 0,
       "jar": "./lib/小雅.jar",
       "style": {
@@ -428,7 +428,7 @@
     },
     {
       "key": "南瓜弹幕",
-      "name": "南瓜",
+      "name": "呱呱线路",
       "type": 3,
       "api": "csp_Nangua",
       "searchable": 1,
@@ -441,7 +441,7 @@
     },
     {
       "key": "酷看弹幕",
-      "name": "酷看",
+      "name": "专区线路",
       "type": 3,
       "api": "csp_Kkys",
       "searchable": 1,
@@ -454,7 +454,7 @@
     },
     {
       "key": "南瓜",
-      "name": "南瓜1",
+      "name": "专区线路二",
       "type": 3,
       "api": "csp_AppYSDQ",
       "searchable": 1,
@@ -463,7 +463,7 @@
     },
     {
       "key": "cz",
-      "name": "厂长",
+      "name": "专区线路三",
       "type": 3,
       "api": "csp_WebCzApp",
       "jar": " ./lib/w.jar",
@@ -478,28 +478,28 @@
     },
     {
       "key": "天天",
-      "name": "天天",
+      "name": "专区线路四",
       "type": 3,
       "api": "csp_TTian",
       "ext": "http://op.ysdqjs.cn"
     },
     {
       "key": "追剧",
-      "name": "追剧",
+      "name": "专区线路五",
       "type": 3,
       "api": "csp_TTian",
       "ext": "http://app.kzjtv.com"
     },
     {
       "key": "热播",
-      "name": "热播",
+      "name": "VIP专线",
       "type": 3,
       "api": "csp_TTian",
       "ext": "http://v.rbotv.cn"
     },
     {
       "key": "P4_Vidhub2",
-      "name": "Vid",
+      "name": "VIP专线二",
       "type": 3,
       "api": "csp_Vidhub2",
       "searchable": 1,
