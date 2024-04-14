@@ -26,15 +26,6 @@
   "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt",
   "epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
   "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-},
-{
-  "name": "金沙电视四.ipv6",
-  "type": 0,
-  "url": "./lib/live.ipv6.txt",
-  "playerType": 1,
-  "ua": "okhttp/3.15",
-  "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-  "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 }
   ],
   "warningText": "每次打开记得长按主页刷新",
@@ -1630,39 +1621,6 @@
         "日韩综艺",
         "欧美综艺"
       ]
-    },
-    {
-      "key": "櫻花",
-      "name": "┃櫻花┃动漫",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "http://www.wya6.cn/tz/wypg.php"
-    },
-    {
-      "key": "维奇",
-      "name": "┃动漫┃维奇",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/维奇.json",
-      "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
-    },
-    {
-      "key": "去看吧",
-      "name": "┃动漫┃去看",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/去看吧.json",
-      "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
-    }
-  ],
   
   "parses": [
     {
