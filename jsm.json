@@ -2,31 +2,15 @@
   "spider": "./pg.jar",
   "wallpaper": "https://tool.weetai.cn/api",
   "lives": [
-   {
-  "name": "金沙电视一台",
-  "type": 0,
-  "url": "https://raw.gitcode.com/2401_82510411/js/raw/main/tv",
-  "playerType": 1,
-  "ua": "okhttp/3.15",
-  "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-  "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-},
-{
-  "name": "成人18+电视台",
-  "type": 0,
-  "playerType": 1,
-  "url": "https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt",
-  "epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
-  "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-}, 
-{
-  "name": "成人18+电视台二",
-  "type": 0,
-  "playerType": 1,
-  "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt",
-  "epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
-  "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-}
+    {
+      "name": "金沙电视一台",
+      "type": 0,
+      "url": "https://raw.gitcode.com/2401_82510411/js/raw/main/tv",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    }
   ],
   "warningText": "每次打开记得长按主页刷新",
   "sites": [
@@ -40,7 +24,7 @@
     },
     {
       "key": "YGP",
-      "name": "新片剧场",
+      "name": "🚀叨观荐影┃新片",
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0,
@@ -49,7 +33,7 @@
     },
     {
       "key": "短剧",
-      "name": "恋爱脑❤┃短剧",
+      "name": "🌈上头┃短剧",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/上头短剧.js",
@@ -59,7 +43,7 @@
     },
     {
       "key": "酷看",
-      "name": "金沙专线",
+      "name": "💡酷看┃秒播",
       "type": 3,
       "api": "csp_Kkys",
       "timeout": 15,
@@ -69,7 +53,7 @@
     },
     {
       "key": "原创",
-      "name": "金沙专线二",
+      "name": "☀原创┃无广",
       "type": 3,
       "api": "csp_YCyz",
       "timeout": 15,
@@ -79,7 +63,7 @@
     },
     {
       "key": "苹果",
-      "name": "金沙专线三",
+      "name": "🍎苹果┃无广",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -88,7 +72,7 @@
     },
     {
       "key": "白嫖",
-      "name": "金沙专线四",
+      "name": "👻白飘┃无广",
       "type": 3,
       "api": "csp_BaiPiao",
       "playerType": 2,
@@ -99,7 +83,7 @@
     },
     {
       "key": "视觉",
-      "name": "金沙专线五",
+      "name": "👓视觉┃直连",
       "type": 3,
       "api": "csp_Xinsj",
       "timeout": 15,
@@ -110,7 +94,7 @@
     },
     {
       "key": "厂长",
-      "name": "金沙专线六",
+      "name": "📔厂长┃无广",
       "type": 3,
       "api": "csp_Czsapp",
       "timeout": 15,
@@ -122,7 +106,7 @@
     },
     {
       "key": "南瓜",
-      "name": "蓝光专线",
+      "name": "🎃南瓜┃App",
       "type": 3,
       "jar": "./lib/fty.jar",
       "api": "csp_NanGua",
@@ -134,7 +118,7 @@
     },
     {
       "key": "农民",
-      "name": "蓝光专线二",
+      "name": "🌾农民┃秒播",
       "type": 3,
       "jar": "./lib/fty.jar",
       "api": "csp_Nmys",
@@ -146,7 +130,7 @@
     },
     {
       "key": "七七",
-      "name": "蓝光专线三",
+      "name": "👒七七┃秒播",
       "type": 3,
       "jar": "./lib/fty.jar",
       "api": "csp_Kunyu77",
@@ -157,7 +141,7 @@
     },
     {
       "key": "低端",
-      "name": "蓝光专线四",
+      "name": "⏮️低端┃外剧",
       "type": 3,
       "jar": "./lib/fty.jar",
       "api": "csp_Ddrk",
@@ -168,7 +152,7 @@
     },
     {
       "key": "毛驴",
-      "name": "蓝光专线五",
+      "name": "🍓毛驴┃直连",
       "type": 3,
       "jar": "./lib/fty.jar",
       "api": "csp_MLYS",
@@ -180,7 +164,7 @@
     },
     {
       "key": "萌米",
-      "name": "蓝光专线六",
+      "name": "👀萌米┃App",
       "type": 3,
       "jar": "./lib/fty.jar",
       "api": "csp_AppTT",
@@ -190,7 +174,7 @@
     },
     {
       "key": "比特",
-      "name": "蓝光专线七",
+      "name": "🍄比特┃秒播",
       "type": 3,
       "jar": "./lib/fty.jar",
       "api": "csp_Bttwoo",
@@ -198,10 +182,19 @@
       "quickSearch": 1,
       "changeable": 1
     },
-
+    {
+      "key": "一起看 ",
+      "name": "🎉一起┃App",
+      "type": 3,
+      "jar": "./lib/fty.jar",
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "zxzj",
-      "name": "蓝光专线八",
+      "name": "🍊在线┃外剧",
       "type": 3,
       "jar": "./lib/fty.jar",
       "api": "csp_Zxzj",
@@ -213,7 +206,7 @@
     },
     {
       "key": "Lib",
-      "name": "蓝光专线九",
+      "name": "🌟立播┃直连",
       "type": 3,
       "jar": "./lib/fty.jar",
       "api": "csp_Libvio",
@@ -225,7 +218,7 @@
     },
     {
       "key": "Auete",
-      "name": "蓝光专线十",
+      "name": "🏝奥特┃直连",
       "type": 3,
       "jar": "./lib/fty.jar",
       "api": "csp_Auete",
@@ -237,7 +230,7 @@
     },
     {
       "key": "贱贱",
-      "name": "金沙尊享专线二",
+      "name": "🐭贱贱┃p2p",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -248,7 +241,7 @@
     },
     {
       "key": "新6V",
-      "name": "金沙尊享专线三",
+      "name": "🧲新6V┃磁力",
       "type": 3,
       "jar": "./lib/fty.jar",
       "api": "csp_SixV",
@@ -259,13 +252,13 @@
     },
     {
       "key": "T4-nongmin",
-      "name": "金沙尊享专线四",
+      "name": "农民影视",
       "type": 4,
       "api": "https://catbox.n13.club/nongmin.php"
     },
     {
       "key": "电影狗影视",
-      "name": "金沙尊享专线五",
+      "name": "🔥电影狗🔥",
       "type": 3,
       "jar": "./lib/XBPQ.jar",
       "api": "csp_XBPQ",
@@ -279,7 +272,7 @@
     },
     {
       "key": "聚米影视",
-      "name": "金沙尊享专线六",
+      "name": "🔥剧迷影视🔥",
       "type": 3,
       "jar": "./lib/XBPQ.jar",
       "api": "csp_XBPQ",
@@ -293,7 +286,7 @@
     },
     {
       "key": "COKEMV影视",
-      "name": "金沙贵宾线路",
+      "name": "🔥COKEMV影视🔥",
       "type": 3,
       "jar": "./lib/XBPQ.jar",
       "api": "csp_XBPQ",
@@ -307,7 +300,7 @@
     },
     {
       "key": "dushe影视",
-      "name": "金沙贵宾线路二",
+      "name": "🔥首播影视🔥",
       "type": 3,
       "jar": "./lib/XBPQ.jar",
       "api": "csp_XBPQ",
@@ -1621,305 +1614,306 @@
         "日韩综艺",
         "欧美综艺"
       ]
-   },
- {
-   "key": "櫻花",
-   "name": "┃櫻花┃动漫",
-   "type": 3,
-   "api": "csp_Ying",
-   "searchable": 1,
-   "changeable": 0,
-   "jar": "http://www.wy
- },
- {
-   "key": "维奇",
-   "name": "┃动漫┃维奇",
-   "type": 3,
-   "api": "csp_XBPQ",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "./lib/维奇.js
-   "jar": "https://jihul
- },
- {
-   "key": "去看吧",
-   "name": "┃动漫┃去看",
-   "type": 3,
-   "api": "csp_XBPQ",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "./lib/去看吧.
-   "jar": "https://jihul
- },
- {
-   "key": "小灯塔科学",
-   "name": "🌏小灯塔科学
-   "type": 3,
-   "api": "csp_Bili",
-   "jar": "http://www.wy
-   "searchable": 0,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "./lib/小灯塔
- },
- {
-   "key": "小灯塔地理",
-   "name": "🌏小灯塔地理
-   "type": 3,
-   "api": "csp_Bili",
-   "jar": "http://www.wy
-   "searchable": 0,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "./lib/小灯塔
- },
- {
-   "key": "小灯塔百科",
-   "name": "🌏小灯塔百科
-   "type": 3,
-   "api": "csp_Bili",
-   "jar": "http://www.wy
-   "searchable": 0,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "./lib/小灯塔
- },
- {
-   "key": "小灯塔国学",
-   "name": "🌏小灯塔国学
-   "type": 3,
-   "api": "csp_Bili",
-   "jar": "http://www.wy
-   "searchable": 0,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "./lib/小灯塔
- },
- {
-   "key": "幼儿教育",
-   "name": "📚幼小┃衔接"
-   "type": 3,
-   "api": "csp_Bili",
-   "jar": "http://www.wy
-   "searchable": 0,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "./lib/哔哩幼
- },
- {
-   "key": "dr_兔小贝",
-   "name": "📚儿童┃启蒙"
-   "type": 3,
-   "api": "./lib/drpy2.m
-   "ext": "./lib/兔小贝.
-   "style": {
-     "type": "rect",
-     "ratio": 1.597
-   },
-   "searchable": 0,
-   "quickSearch": 0,
-   "changeable": 0
- },
- {
-   "key": "少儿教育",
-   "name": "📚少儿┃教育"
-   "type": 3,
-   "api": "csp_Bili",
-   "style": {
-     "type": "rect",
-     "ratio": 1.597
-   },
-   "searchable": 0,
-   "quickSearch": 0,
-   "changeable": 0,
-   "ext": "./lib/少儿教
- },
- {
-   "key": "小学课堂",
-   "name": "📚小学┃课堂"
-   "type": 3,
-   "api": "csp_Bili",
-   "style": {
-     "type": "rect",
-     "ratio": 1.597
-   },
-   "searchable": 0,
-   "quickSearch": 0,
-   "changeable": 0,
-   "ext": "./lib/小学课
- },
- {
-   "key": "初中课堂",
-   "name": "📚初中┃课堂"
-   "type": 3,
-   "api": "csp_Bili",
-   "style": {
-     "type": "rect",
-     "ratio": 1.597
-   },
-   "searchable": 0,
-   "quickSearch": 0,
-   "changeable": 0,
-   "ext": "./lib/初中课
- },
- {
-   "key": "高中教育",
-   "name": "📚高中┃课堂"
-   "type": 3,
-   "api": "csp_Bili",
-   "style": {
-     "type": "rect",
-     "ratio": 1.597
-   },
-   "searchable": 0,
-   "quickSearch": 0,
-   "changeable": 0,
-   "ext": "./lib/高中课
- },
- {
-   "key": "软件",
-   "name": "🅱软件┃教程",
-   "type": 3,
-   "api": "csp_Bili",
-   "searchable": 0,
-   "quickSearch": 0,
-   "filterable": 1,
-   "ext": "./lib/软件教
-   "jar": "http://www.wy
- },
- {
-   "key": "学习园地",
-   "name": "🅱学习┃园地",
-   "type": 3,
-   "api": "csp_Bili",
-   "jar": "http://www.wy
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "./lib/blxy.js
- },
- {
-   "key": "学外语",
-   "name": "🅱学习┃外语",
-   "type": 3,
-   "api": "csp_Bili",
-   "jar": "http://www.wy
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "./lib/waiyu.j
- },
- {
-   "key": "兴趣健身",
-   "name": "🅱兴趣┃健身",
-   "type": 3,
-   "api": "csp_Bili",
-   "jar": "http://www.wy
-   "searchable": 0,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "./lib/bljs.js
- },
- {
-   "key": "相声小品",
-   "name": "🅱相声┃小品",
-   "type": 3,
-   "api": "csp_Bili",
-   "jar": "http://www.wy
-   "searchable": 0,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "./lib/blxs.js
- },
- {
-   "key": "美食",
-   "name": "🅱天下┃美食",
-   "type": 3,
-   "api": "csp_Bili",
-   "jar": "http://www.wy
-   "searchable": 0,
-   "quickSearch": 0,
-   "filterable": 1,
-   "ext": "./lib/美食.js
- },
- {
-   "key": "戏曲杂苑",
-   "name": "🅱戏曲┃杂苑",
-   "type": 3,
-   "api": "csp_Bili",
-   "jar": "http://www.wy
-   "searchable": 0,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "./lib/blxq.js
- },
- {
-   "key": "88js",
-   "name": "┃88┃看球",
-   "type": 3,
-   "api": "./lib/drpy2.m
-   "ext": "./lib/88看球.
-   "style": {
-     "type": "list"
-   },
-   "searchable": 0,
-   "quickSearch": 0,
-   "changeable": 0
- },
- {
-   "key": "csp_qiumi",
-   "name": "┃Jrs┃球迷",
-   "type": 3,
-   "api": "./lib/drpy2.m
-   "ext": "./lib/jrk.js"
-   "style": {
-     "type": "list"
-   },
-   "searchable": 0,
-   "quickSearch": 0,
-   "changeable": 0
- },
- {
-   "key": "csp_XPath_鹅
-   "name": "┃企鹅┃直播",
-   "type": 3,
-   "api": "csp_XPath",
-   "searchable": 0,
-   "quickSearch": 0,
-   "filterable": 0,
-   "ext": "./lib/qie.jso
- },
- {
-   "key": "push_agent",
-   "name": "🆙手机┃推送",
-   "type": 3,
-   "api": "csp_PushAgent
-   "playerType": 1,
-   "searchable": 0,
-   "quickSearch": 0,
-   "filterable": 0
- },
- {
-   "key": "yy",
-   "name": "❌公众号",
-   "type": 3,
-   "api": "csp_yy",
-   "searchable": 0,
-   "quickSearch": 0,
-   "filterable": 0
- },
+    },
     {
-  "key": "xh1",
-  "name": "❌玉玉软件",
-  "type": 3,
-  "api": "csp_xh",
-  "searchable": 0,
-  "quickSearch": 0,
-  "filterable": 0
-}
+      "key": "櫻花",
+      "name": "┃櫻花┃动漫",
+      "type": 3,
+      "api": "csp_Ying",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "http://www.wya6.cn/tz/wypg.php"
+    },
+    {
+      "key": "维奇",
+      "name": "┃动漫┃维奇",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/维奇.json",
+      "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
+    },
+    {
+      "key": "去看吧",
+      "name": "┃动漫┃去看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/去看吧.json",
+      "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
+    },
+    {
+      "key": "小灯塔科学",
+      "name": "🌏小灯塔科学",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/小灯塔科学.json"
+    },
+    {
+      "key": "小灯塔地理",
+      "name": "🌏小灯塔地理",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/小灯塔地理.json"
+    },
+    {
+      "key": "小灯塔百科",
+      "name": "🌏小灯塔百科",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/小灯塔百科.json"
+    },
+    {
+      "key": "小灯塔国学",
+      "name": "🌏小灯塔国学",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/小灯塔国学.json"
+    },
+    {
+      "key": "幼儿教育",
+      "name": "📚幼小┃衔接",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/哔哩幼小.json"
+    },
+    {
+      "key": "dr_兔小贝",
+      "name": "📚儿童┃启蒙",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/兔小贝.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "少儿教育",
+      "name": "📚少儿┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/少儿教育.json"
+    },
+    {
+      "key": "小学课堂",
+      "name": "📚小学┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/小学课堂.json"
+    },
+    {
+      "key": "初中课堂",
+      "name": "📚初中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/初中课堂.json"
+    },
+    {
+      "key": "高中教育",
+      "name": "📚高中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/高中课堂.json"
+    },
+    {
+      "key": "软件",
+      "name": "🅱软件┃教程",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/软件教程.json",
+      "jar": "http://www.wya6.cn/tz/wyog.php"
+    },
+    {
+      "key": "学习园地",
+      "name": "🅱学习┃园地",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/blxy.json"
+    },
+    {
+      "key": "学外语",
+      "name": "🅱学习┃外语",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/waiyu.json"
+    },
+    {
+      "key": "兴趣健身",
+      "name": "🅱兴趣┃健身",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/bljs.json"
+    },
+    {
+      "key": "相声小品",
+      "name": "🅱相声┃小品",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/blxs.json"
+    },
+    {
+      "key": "美食",
+      "name": "🅱天下┃美食",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyog.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/美食.json"
+    },
+    {
+      "key": "戏曲杂苑",
+      "name": "🅱戏曲┃杂苑",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/blxq.json"
+    },
+    {
+      "key": "88js",
+      "name": "┃88┃看球",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/88看球.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "csp_qiumi",
+      "name": "┃Jrs┃球迷",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/jrk.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "csp_XPath_鹅直播",
+      "name": "┃企鹅┃直播",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./lib/qie.json"
+    },
+    {
+      "key": "push_agent",
+      "name": "🆙手机┃推送",
+      "type": 3,
+      "api": "csp_PushAgent",
+      "playerType": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "yy",
+      "name": "❌公众号",
+      "type": 3,
+      "api": "csp_yy",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "xh1",
+      "name": "❌玉玉软件",
+      "type": 3,
+      "api": "csp_xh",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    }
   ],
+  
   "parses": [
     {
       "name": "Web聚合",
