@@ -160,7 +160,7 @@
     },
     {
       "key": "原创",
-      "name": "☀金沙VIP线路二",
+      "name": "金沙VIP线路二",
       "type": 3,
        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712916456808/fan.txt",
       "api": "csp_YCyz",
@@ -509,7 +509,7 @@
     },
     {
       "key": "zz",
-      "name": "种子",
+      "name": "磁力种子",
       "type": 3,
       "api": "csp_App",
       "jar": " ./lib/w.jar",
@@ -520,7 +520,7 @@
     },
     {
       "key": "毒舌影视",
-      "name": "🔥毒舌影视🔥",
+      "name": "VIP专线三",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -548,14 +548,14 @@
     },
     {
       "key": "金曼影视",
-      "name": "金曼",
+      "name": "VIP专线四",
       "type": 3,
       "api": " ./lib/drpy.min.js",
       "ext": " ./lib/金曼.js"
     },
     {
       "key": "kyB",
-      "name": "快鹰",
+      "name": "VIP专线五",
       "style": {
         "type": "rect",
         "ratio": 0.85
@@ -568,7 +568,7 @@
     },
     {
       "key": "csp_CandyMuj_freeok",
-      "name": "FreeOK",
+      "name": "VIP专线六",
       "type": 3,
       "api": "csp_CandyMuj_freeok",
       "jar": " ./lib/c.jar",
@@ -578,7 +578,7 @@
     },
     {
       "key": "Bt0",
-      "name": "不太灵",
+      "name": "VIP专线七",
       "type": 3,
       "api": "csp_Bt0",
       "jar": "./lib/pg.jar",
@@ -590,7 +590,7 @@
     },
     {
       "key": "csp_XYQBiu_骚火电影VIP",
-      "name": "主页(请不要相信视频中的任何广告)",
+      "name": "VIP专线八",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
@@ -600,7 +600,7 @@
     },
     {
       "key": "新视觉",
-      "name": "新视觉",
+      "name": "新特线",
       "type": 3,
       "api": "csp_Web608",
       "searchable": 1,
@@ -610,7 +610,7 @@
     },
     {
       "key": "蛋蛋影视",
-      "name": "蛋蛋",
+      "name": "新特线二",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -620,7 +620,7 @@
     },
     {
       "key": "五五影视",
-      "name": "五五",
+      "name": "新特线三",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -630,7 +630,7 @@
     },
     {
       "key": "柒月影视",
-      "name": "柒月",
+      "name": "新特线四",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -640,7 +640,7 @@
     },
     {
       "key": "奇趣影视",
-      "name": "奇趣",
+      "name": "新特线五",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -650,7 +650,7 @@
     },
     {
       "key": "泰泰",
-      "name": "酷影",
+      "name": "新特线六",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -660,7 +660,7 @@
     },
     {
       "key": "csp_JianPian",
-      "name": "🔨荐片",
+      "name": "新特线七",
       "type": 3,
       "api": "csp_JianPian",
       "playerType": 1,
@@ -671,7 +671,7 @@
     },
     {
       "key": "哔嘀",
-      "name": "🅱️哔嘀",
+      "name": "哔站",
       "type": 3,
       "api": "csp_Bdys",
       "searchable": 1,
@@ -680,7 +680,7 @@
     },
     {
       "key": "低端",
-      "name": "🔅低端",
+      "name": "新特线八",
       "type": 3,
       "api": "csp_Ddys",
       "searchable": 1,
@@ -689,7 +689,7 @@
     },
     {
       "key": "360_spider",
-      "name": "🐞360",
+      "name": "新特线九",
       "type": 3,
       "api": "csp_SP360",
       "jar": "./lib/XYQ.jar",
@@ -699,7 +699,7 @@
     },
     {
       "key": "csp_午夜",
-      "name": "🌉午夜",
+      "name": "新特线十",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -710,7 +710,7 @@
     },
     {
       "key": "小柚",
-      "name": "🍊小柚",
+      "name": "尊享一线",
       "type": 3,
       "api": "csp_AppSK",
       "jar": "./lib/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
@@ -722,7 +722,7 @@
     },
     {
       "key": "萌米",
-      "name": "👀萌米",
+      "name": "尊享二线",
       "type": 3,
       "api": "csp_AppMao",
       "jar": "./lib/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
@@ -734,7 +734,7 @@
     },
     {
       "key": "蜂鸟",
-      "name": "🕊蜂鸟",
+      "name": "尊享三线",
       "type": 3,
       "api": "csp_AppSK",
       "jar": "./lib/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
@@ -745,7 +745,7 @@
     },
     {
       "key": "T4-安博",
-      "name": "🔐安博",
+      "name": "尊享四线",
       "type": 4,
       "api": "https://tang.serv00.net/power/ub1818",
       "jar": "./lib/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
@@ -757,7 +757,7 @@
     },
     {
       "key": "csp_XYQHiker_奈飞中文",
-      "name": "奈飞",
+      "name": "网飞线路",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -767,7 +767,7 @@
     },
     {
       "key": "csp_Kuaikan",
-      "name": "💡快看",
+      "name": "尊享五线",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -776,35 +776,35 @@
     },
     {
       "key": "drpy_js_奇珍异兽",
-      "name": "奇珍",
+      "name": "尊享六线",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
-      "name": "优酷",
+      "name": "尊享七线",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
-      "name": "腾云",
+      "name": "尊享八线",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
-      "name": "忙果",
+      "name": "尊享九线",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/百忙无果.js"
     },
     {
       "key": "云2",
-      "name": "🔥梦影",
+      "name": "尊享特线",
       "type": 3,
       "api": "csp_Movie2",
       "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xzqcsa/ysc/372f3f2770e87db6b8da44ba9175c265f834e515/xzqzy/lib/jar.php",
@@ -812,7 +812,7 @@
     },
     {
       "key": "蚂蚁ys",
-      "name": "🐜蚂蚁",
+      "name": "皇家一线",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": 2,
@@ -830,7 +830,7 @@
     },
     {
       "key": "罗汉拳",
-      "name": "👍网盘",
+      "name": "爱磁盘",
       "type": 3,
       "style": {
         "type": "rect",
