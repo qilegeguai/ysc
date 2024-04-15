@@ -23,7 +23,6 @@
       "jar": "./lib/xc14.jar",
       "searchable": 0
     },
-
 	  {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3, "jar": "./lib/vip.jar","api":"./lib/drpy2.min.js","ext":"./lib/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 	  {"key":"drpy_js_奈飞狗[V2]","name":"影视 | 奈飞狗[V2]","type":3, "jar": "./lib/vip.jar","api":"./lib/drpy2.min.js","ext":"./lib/奈飞狗[V2].js"},
 
@@ -34,16 +33,6 @@
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/欧乐影院[飞].js"
 },
-	{
-		"key": "网盘配置",
-		"name": "网盘及彈幕配置",
-		"type": 3,
-		"api": "csp_Config",
-		"searchable": 0,
-		"changeable": 0,
-		"ext":"./lib/tokenm.json"
-	},
-  
      {"key": "快云资源","name": "🔞快云资源","type": 1,"api": "https://kuaiyun-api.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"style": {"type": "rect","ratio": 1.33},"categories": ["伦理片"]}, 
 
 
@@ -1938,7 +1927,175 @@
       "ext": "./lib/去看吧.json",
       "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
     },
-  
+    {
+      "key": "小灯塔科学",
+      "name": "🌏小灯塔科学",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/小灯塔科学.json"
+    },
+    {
+      "key": "小灯塔地理",
+      "name": "🌏小灯塔地理",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/小灯塔地理.json"
+    },
+    {
+      "key": "小灯塔百科",
+      "name": "🌏小灯塔百科",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/小灯塔百科.json"
+    },
+    {
+      "key": "小灯塔国学",
+      "name": "🌏小灯塔国学",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/小灯塔国学.json"
+    },
+    {
+      "key": "幼儿教育",
+      "name": "📚幼小┃衔接",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/哔哩幼小.json"
+    },
+    {
+      "key": "dr_兔小贝",
+      "name": "📚儿童┃启蒙",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/兔小贝.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "少儿教育",
+      "name": "📚少儿┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/少儿教育.json"
+    },
+    {
+      "key": "小学课堂",
+      "name": "📚小学┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/小学课堂.json"
+    },
+    {
+      "key": "初中课堂",
+      "name": "📚初中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/初中课堂.json"
+    },
+    {
+      "key": "高中教育",
+      "name": "📚高中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/高中课堂.json"
+    },
+    {
+      "key": "软件",
+      "name": "🅱软件┃教程",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/软件教程.json",
+      "jar": "http://www.wya6.cn/tz/wyog.php"
+    },
+    {
+      "key": "学习园地",
+      "name": "🅱学习┃园地",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/blxy.json"
+    },
+    {
+      "key": "学外语",
+      "name": "🅱学习┃外语",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/waiyu.json"
+    },
+    {
+      "key": "兴趣健身",
+      "name": "🅱兴趣┃健身",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/bljs.json"
+    },
     {
       "key": "相声小品",
       "name": "🅱相声┃小品",
@@ -2007,6 +2164,34 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "./lib/qie.json"
+    },
+    {
+      "key": "push_agent",
+      "name": "🆙手机┃推送",
+      "type": 3,
+      "api": "csp_PushAgent",
+      "playerType": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "yy",
+      "name": "❌公众号",
+      "type": 3,
+      "api": "csp_yy",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "xh1",
+      "name": "❌玉玉软件",
+      "type": 3,
+      "api": "csp_xh",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     }
   ],
   
