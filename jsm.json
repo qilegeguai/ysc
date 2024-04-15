@@ -2174,24 +2174,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    },
-    {
-      "key": "yy",
-      "name": "❌公众号",
-      "type": 3,
-      "api": "csp_yy",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "xh1",
-      "name": "❌玉玉软件",
-      "type": 3,
-      "api": "csp_xh",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
     }
   ],
   
