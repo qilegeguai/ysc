@@ -25,6 +25,62 @@
     },
 	  {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3, "jar": "./lib/vip.jar","api":"./lib/drpy2.min.js","ext":"./lib/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 	  {"key":"drpy_js_奈飞狗[V2]","name":"影视 | 奈飞狗[V2]","type":3, "jar": "./lib/vip.jar","api":"./lib/drpy2.min.js","ext":"./lib/奈飞狗[V2].js"},
+	  {
+  "key": "drpy_js_时光影视",
+  "name": "影视 | 时光影视[js]",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/时光影视.js"
+},
+{
+  "key": "drpy_js_思古影视",
+  "name": "影视 | 思古影视",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/思古影视.js"
+},
+{
+  "key": "drpy_js_私人影院",
+  "name": "影视 | 私人影院[js]",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/私人影院.js"
+},
+{
+  "key": "drpy_js_素白白",
+  "name": "影视 | 素白白[js]",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/素白白.js"
+},
+{
+  "key": "drpy_js_网飞.TV",
+  "name": "影视 | 网飞.TV[js]",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/网飞.TV.js"
+},
+{
+  "key": "drpy_js_西瓜影院",
+  "name": "影视 | 西瓜影院[js]",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/西瓜影院.js"
+},
+{
+  "key": "drpy_js_蜥蜴影视",
+  "name": "影视 | 蜥蜴影视[js]",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/蜥蜴影视.js"
+},
+{
+  "key": "drpy_js_小狗影院",
+  "name": "影视 | 小狗影院[js]",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/小狗影院.js"
+},
 
 {
   "key": "drpy_js_欧乐影院[飞]",
