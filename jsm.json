@@ -23,32 +23,15 @@
       "jar": "./lib/xc14.jar",
       "searchable": 0
     },
-	  {
-  "key": "河马",
-  "name": "弹幕 | 河马[jar]",
-  "type": 3,
-   "jar": "./lib/vip.jar"		  
-  "api": "csp_Hmys",
-  "playerType": 1,
-  "ext": "https://m.jmzp.net.cn$$$null$$$1"
-},
-{
-  "key": "天天",
-  "name": "弹幕 | 天天[jar]",
-  "type": 3,
-   "jar": "./lib/vip.jar"	
-  "api": "csp_TTian",
-  "playerType": 1,
-  "ext": "http://op.ysdqjs.cn$$$null$$$1"
-},
-{
-  "key": "追剧",
-  "name": "弹幕 | 追剧[jar]",
-  "type": 3,
-  "api": "csp_TTian",
-  "playerType": 1,
-  "ext": "http://app.kzjtv.com$$$null$$$1"
-},
+ {
+   "key": "NanGua",
+   "name": "弹幕 | 南瓜[jar]",
+   "type": 3,
+   "api": "csp_NanGua",
+   "searchable": 1,
+   "changeable": 1,
+   "ext": "null$$$1"
+ },
 	  {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3, "jar": "./lib/vip.jar","api":"./lib/drpy2.min.js","ext":"./lib/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 	  {"key":"drpy_js_奈飞狗[V2]","name":"影视 | 奈飞狗[V2]","type":3, "jar": "./lib/vip.jar","api":"./lib/drpy2.min.js","ext":"./lib/奈飞狗[V2].js"},
 
