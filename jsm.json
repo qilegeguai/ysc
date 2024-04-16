@@ -27,6 +27,7 @@
    "key": "豆豆",
    "name": "夜泊金沙贵宾线",
    "type": 3,
+	"jar": "./lib/me.jar", 
    "api": "csp_DouDou",
    "searchable": 0,
    "quickSearch": 0,
