@@ -23,6 +23,27 @@
       "jar": "./lib/xc14.jar",
       "searchable": 0
     },
+	      {
+      "key": "meowtv_jhys",
+      "name": "One ┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/",
+      "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
+    },
+    {
+      "key": "meowtv_Libo",
+      "name": "利播┃影视",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.libvio.pro/"
+    },
 	  {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3, "jar": "./lib/vip.jar","api":"./lib/drpy2.min.js","ext":"./lib/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 	  {"key":"drpy_js_奈飞狗[V2]","name":"影视 | 奈飞狗[V2]","type":3, "jar": "./lib/vip.jar","api":"./lib/drpy2.min.js","ext":"./lib/奈飞狗[V2].js"},
 	  {
