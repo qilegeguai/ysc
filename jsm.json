@@ -497,7 +497,7 @@
       "key": "南瓜",
       "name": "🎃南瓜┃App",
       "type": 3,
-     "jar": "./lib/fty.jar",
+        "jar": "./lib/me.jar",
       "api": "csp_NanGua",
       "timeout": 15,
       "playerType": 2,
