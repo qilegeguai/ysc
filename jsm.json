@@ -24,6 +24,15 @@
       "searchable": 0
     },
  {
+   "key": "豆豆",
+   "name": "夜泊金沙贵宾线",
+   "type": 3,
+   "api": "csp_DouDou",
+   "searchable": 0,
+   "quickSearch": 0,
+   "filterable": 0
+ },	  
+ {
    "key": "meowtv_qyyy",
    "name": "奇优┃影视",
    "type": 3,
