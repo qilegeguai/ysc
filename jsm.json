@@ -23,67 +23,7 @@
       "jar": "./lib/xc14.jar",
       "searchable": 0
     },
- {
-   "key": "豆豆",
-   "name": "夜泊金沙贵宾线",
-   "type": 3,
-	"jar": "./lib/me.jar", 
-   "api": "csp_DouDou",
-   "searchable": 0,
-   "quickSearch": 0,
-   "filterable": 0
- },	  
- {
-   "key": "meowtv_qyyy",
-   "name": "奇优┃影视",
-   "type": 3,
-   "api": "csp_XBPQ",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "./lib/奇优影院.json"
- },
-{
-  "key": "meowtv_phys",
-  "name": "胖虎┃影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/胖虎影视.json"
-},
-{
-  "key": "meowtv_scys",
-  "name": "圣城┃影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/圣城影视.json"
-},
-{
-  "key": "meowtv_qxys",
-  "name": "秋霞┃影视",
-  "type": 3,
-  "api": "./lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/秋霞影视.js"
-},	  
-    {
-      "key": "meowtv_Libo",
-      "name": "利播┃影视",
-      "type": 3,
-      "jar": "./lib/me.jar",
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.libvio.pro/"
-    },
+
 	  {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3, "jar": "./lib/vip.jar","api":"./lib/drpy2.min.js","ext":"./lib/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 	  {"key":"drpy_js_奈飞狗[V2]","name":"影视 | 奈飞狗[V2]","type":3, "jar": "./lib/vip.jar","api":"./lib/drpy2.min.js","ext":"./lib/奈飞狗[V2].js"},
 	  {
