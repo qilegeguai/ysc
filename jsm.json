@@ -75,6 +75,10 @@
       "changeable": 1,
       "ext": "https://www.libvio.pro/"
     },
+	{"key":"drpy_js_酷吧","name":"酷吧[js]|磁","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
+	{"key":"BLSGod","name":"BLSGod|磁","type":3,"api":"csp_BLSGod","changeable":1, "timeout":60},
+	{"key":"Xunlei8","name":"Xunlei8|磁","type":3,"api":"csp_Xunlei8","changeable":1, "timeout":60},
+	{"key":"SeedHub","name":"SeedHub|磁","type":3,"api":"csp_SeedHub","changeable":1, "timeout":60},
 	  {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3, "jar": "./lib/vip.jar","api":"./lib/drpy2.min.js","ext":"./lib/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 	  {"key":"drpy_js_奈飞狗[V2]","name":"影视 | 奈飞狗[V2]","type":3, "jar": "./lib/vip.jar","api":"./lib/drpy2.min.js","ext":"./lib/奈飞狗[V2].js"},
 	  {
@@ -571,16 +575,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "一起看 ",
-      "name": "🎉一起┃App",
-      "type": 3,
-      "jar": "./lib/fty.jar",
-      "api": "csp_YQKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+
     {
       "key": "zxzj",
       "name": "🍊在线┃外剧",
@@ -744,7 +739,7 @@
     },
     {
       "key": "南瓜",
-      "name": "南瓜1",
+      "name": "南瓜影视",
       "type": 3,
       "api": "csp_AppYSDQ",
       "searchable": 1,
@@ -880,7 +875,7 @@
     },
     {
       "key": "csp_XYQBiu_骚火电影VIP",
-      "name": "主页(请不要相信视频中的任何广告)",
+      "name": "骚嘎达",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
@@ -1277,16 +1272,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "更多资源",
-      "name": "🛒软件下载",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./lib/gzh.json",
-      "jar": "./lib/fm商店.jar"
-    },
+
     {
       "key": "YiSo",
       "name": "💮一搜",
@@ -1401,13 +1387,7 @@
         "海外剧"
       ]
     },
-    {
-      "key": "js_亲子",
-      "name": "👨‍👨‍👧亲子",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/tongqu.js"
-    },
+
     {
       "key": "csp_zhibo_douyu",
       "name": "💥斗鱼",
@@ -2036,65 +2016,7 @@
       "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
     },
    
-    {
-      "key": "相声小品",
-      "name": "🅱相声┃小品",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "http://www.wya6.cn/tz/wyxy.php",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/blxs.json"
-    },
-    {
-      "key": "美食",
-      "name": "🅱天下┃美食",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "http://www.wya6.cn/tz/wyog.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/美食.json"
-    },
-    {
-      "key": "戏曲杂苑",
-      "name": "🅱戏曲┃杂苑",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "http://www.wya6.cn/tz/wyxy.php",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/blxq.json"
-    },
-    {
-      "key": "88js",
-      "name": "┃88┃看球",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/88看球.js",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "csp_qiumi",
-      "name": "┃Jrs┃球迷",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/jrk.js",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+   
     {
       "key": "csp_XPath_鹅直播",
       "name": "┃企鹅┃直播",
