@@ -32,7 +32,7 @@
    "quickSearch": 1,
    "changeable": 1,
    "ext": "./lib/双黄影视.json",
-   "jar": "./lib/me.jar"
+   "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
  },
     {
       "key": "meowtv_Libo",
