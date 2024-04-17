@@ -216,7 +216,7 @@
        
         {
             "key": "乐播",
-            "name": "️👠乐播采集",
+            "name": "️🈲长三书寓",
             "type": 1,
             "api": "https://lbapi9.com/api.php/provide/vod/",
             "playUrl": "",
@@ -244,16 +244,16 @@
         },
         
 
-    {"key":"csp_xBPQ_香蕉AV解说","name":"🏆香蕉解说","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉解说.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_香蕉资源","name":"🏆香蕉资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉资源.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_香蕉超清","name":"🏆香蕉超清","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉超清.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_香蕉国产","name":"🏆香蕉国产","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉国产.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_香蕉久久热","name":"🏆香蕉久久热","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉久久热.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_香蕉废柴","name":"🏆香蕉废柴","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉废柴.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_香蕉搜索","name":"🏆香蕉搜索","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉搜索.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_香蕉直播","name":"🏆香蕉直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉直播.json","jar":"./lib/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_香蕉AV解说","name":"🈲红袖招","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉解说.json","jar":"./lib/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_香蕉资源","name":"🈲飘香院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉资源.json","jar":"./lib/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_香蕉超清","name":"🈲万花楼","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉超清.json","jar":"./lib/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_香蕉国产","name":"🈲慧贤楼","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉国产.json","jar":"./lib/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_香蕉久久热","name":"🈲藏香阁","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉久久热.json","jar":"./lib/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_香蕉废柴","name":"🈲潇湘馆","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉废柴.json","jar":"./lib/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_香蕉搜索","name":"🈲百花楼","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉搜索.json","jar":"./lib/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_香蕉直播","name":"🈲寻芳阁","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉直播.json","jar":"./lib/Yoursmile2.jar"},
    
-    {"key":"csp_xBPQ_麻豆映画","name":"🏆麻豆映画","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/麻豆映画.json","jar":"./lib/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_麻豆映画","name":"🈲凝心阁","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/麻豆映画.json","jar":"./lib/Yoursmile2.jar"},
    
 
 
