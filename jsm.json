@@ -10,20 +10,7 @@
       "ua": "okhttp/3.15",
       "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-    },
-	      {
-      "name": "金沙电视二台",
-      "type": 0,
-       "ext": "./js/js.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
     }
-				]
-			}
-		]
-	}
   ],
   "warningText": "每次打开记得长按主页刷新",
   "sites": [
