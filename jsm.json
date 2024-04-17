@@ -30,7 +30,7 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "live.fan",
+				"name": "直播五线",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
 				"playerType": 1,
@@ -39,7 +39,7 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "YTLive",
+				"name": "直播六线",
 				"type": 0,
 				"playerType": 1,
 				"url": "https://gist.githubusercontent.com/inkss/0cf33e9f52fbb1f91bc5eb0144e504cf/raw/ipv6.m3ut",
@@ -47,7 +47,7 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "直播",
+				"name": "直播七线",
 				"type": 0,
 				"playerType": 1,
 				"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
@@ -55,7 +55,7 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "TXT",
+				"name": "直播八线",
 				"type": 0,
 				"playerType": 1,
 				"url": "http://home.jundie.top:81/Cat/tv/live.txt",
@@ -64,7 +64,7 @@
 				"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
 			},
 			{
-				"name": "Json",
+				"name": "直播九线",
 				"type": 1,
 				"playerType": 1,
 				"url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
@@ -73,7 +73,7 @@
 				"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
 			},
 			{
-				"name": "live.feimao",
+				"name": "直播十线",
 				"type": 0,
 				"playerType": 1,
 				"url": "http://127.0.0.1:10079/p/0/proxy/http://我不是.肥猫.live/TV/tvzb.txt",
@@ -85,7 +85,7 @@
 				"group":"redirect",
 				"channels":[
 					{
-						"name":"redirect",
+						"name":"直播源为空",
 						"urls":[
 							"proxy://do=live&type=live&proxy=&url="
 						]
