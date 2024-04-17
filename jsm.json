@@ -143,14 +143,14 @@
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/欧乐影院[飞].js"
 },
-     {"key": "快云资源","name": "🔞快云资源","type": 1,"api": "https://kuaiyun-api.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"style": {"type": "rect","ratio": 1.33},"categories": ["伦理片"]}, 
+     {"key": "快云资源","name": "㍰橙色影院","type": 1,"api": "https://kuaiyun-api.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"style": {"type": "rect","ratio": 1.33},"categories": ["伦理片"]}, 
 
 
 
 
 	{
             "key": "老鸭",
-            "name": "👠老鸭采集",
+            "name": "🈲午夜福利",
             "type": 1,
             "api": "https://api.apilyzy.com/api.php/provide/vod/",
             "playUrl": "",
@@ -172,14 +172,14 @@
             ]
         },
      
-{ "key": "鸡坤资源", "name": "👠鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 0, "quickSearch": 0, "filterable": 0 },
+{ "key": "鸡坤资源", "name": "🈲怡红院", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 0, "quickSearch": 0, "filterable": 0 },
 
-{"key":"9号资源","name":"👠9号资源","type":0,"api":"http://fhapi9.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
+{"key":"9号资源","name":"🈲品香阁","type":0,"api":"http://fhapi9.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
 
-{"key": "滴滴资源","name": "👠滴滴资源","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/at/xml", "searchable": 0,"quickSearch": 0, "filterable": 0 },
-{"key": "蛋蛋视频","name": "👠蛋蛋视频","type": 1,"api": "https://156.249.29.8/inc/apijson_vod.php", "searchable": 0,"quickSearch": 0, "filterable": 0 },
+{"key": "滴滴资源","name": "🈲探花楼","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/at/xml", "searchable": 0,"quickSearch": 0, "filterable": 0 },
+{"key": "蛋蛋视频","name": "🈲私密影院","type": 1,"api": "https://156.249.29.8/inc/apijson_vod.php", "searchable": 0,"quickSearch": 0, "filterable": 0 },
 
-{"key": "玉兔资源","name": "👠玉兔资源","type": 1,"api": "https://yutuzy3.com/api.php/provide/vod/?ac=list", "searchable": 0,"quickSearch": 0, "filterable": 0 }, 
+{"key": "玉兔资源","name": "🈲后花园","type": 1,"api": "https://yutuzy3.com/api.php/provide/vod/?ac=list", "searchable": 0,"quickSearch": 0, "filterable": 0 }, 
 
 
 
@@ -187,7 +187,7 @@
     
         {
             "key": "番外",
-            "name": "👠番外采集",
+            "name": "🈲卧龙湾",
             "type": 1,
             "api": "http://fhapi9.com/api.php/provide/vod/",
             "playUrl": "",
