@@ -2,19 +2,10 @@
   "spider": "./pg.jar",
   "wallpaper": "https://tool.weetai.cn/api",
 "lives":[
-	 {
-   "name": "金沙电视一台",
-   "type": 0,
-   "url": "https://raw.gitcode.com/2401_82510411/js/raw/main/tv",
-   "playerType": 1,
-   "ua": "okhttp/3.15",
-   "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-   "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
- },
 			{
 				"name": "live.ipv6",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/p/0/proxy/https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+				"url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
