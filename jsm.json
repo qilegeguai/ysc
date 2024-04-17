@@ -1,17 +1,18 @@
 {
   "spider": "./pg.jar",
   "wallpaper": "https://tool.weetai.cn/api",
-  "lives": [
-    {
-      "name": "金沙电视一台",
-      "type": 0,
-      "url": "https://raw.gitcode.com/2401_82510411/js/raw/main/tv",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
+ "lives": [
+   {
+     "name": "金沙电视一台",
+     "type": 0,
+     "url": "https://raw.gitcode.com/2401_82510411/js/raw/main/tv",
+     "playerType": 1,
+     "ua": "okhttp/3.15",
+     "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+     "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+   }
+   
+ ],
   "warningText": "每次打开记得长按主页刷新",
   "sites": [
     {
