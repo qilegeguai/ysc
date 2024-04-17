@@ -42,7 +42,9 @@
 				"name": "YTLive",
 				"type": 0,
 				"playerType": 1,
-				"url": "./lib/yo21.txt"
+				"url": "https://gist.githubusercontent.com/inkss/0cf33e9f52fbb1f91bc5eb0144e504cf/raw/ipv6.m3ut",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
 				"name": "直播",
