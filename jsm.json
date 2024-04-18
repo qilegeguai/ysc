@@ -572,7 +572,7 @@
       "key": "白嫖",
       "name": "👻白飘┃无广",
       "type": 3,
-      "jar": "./lib/ag.jar",
+      "jar": "./lib/me.jar",
       "api": "csp_BaiPiao",
       "playerType": 2,
       "searchable": 1,
