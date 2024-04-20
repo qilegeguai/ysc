@@ -22,14 +22,7 @@
       "searchable": 1,
       "quickSearch": 0
     },
-    {
-      "key": "*色南国资源",
-      "name": "*色南国资源",
-      "type": 1,
-      "api": "https://api.sexnguon.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 0
-    },
+
     {
       "key": "*抖阴视频",
       "name": "*抖阴视频",
