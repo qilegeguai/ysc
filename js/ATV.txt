@@ -290,7 +290,7 @@ TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 
 
 
-成人频道,#genre#
+成人频道_66666666,#genre#
 
 
 花花公子,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/527/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/527/index.m3u8#http://ottshow.net:80/live/Dragan123/Dragan123/32450.ts
