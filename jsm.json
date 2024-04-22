@@ -144,18 +144,7 @@
   "ext": "./lib/圣城影视.json"
 },
 	  
-    {
-      "key": "libvio_js",
-      "name": "利播┃影视",
-      "type": 3,
-      "jar": "./lib/me.jar",
-      "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/libvio.js"
-	"timeout": 15       
-    },
+  
 {"key": "快云资源","name": "㍰橙色影院","type": 1,"api": "https://kuaiyun-api.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"style": {"type": "rect","ratio": 1.33},"categories": ["伦理片"]}, 
 
 {
