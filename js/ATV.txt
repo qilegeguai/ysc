@@ -131,10 +131,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://113.64.145.195:8081/hls/36/index.m3u8
-凤凰中文,http://113.64.145.195:8081/hls/37/index.m3u8
-凤凰香港,http://113.64.145.195:8081/hls/38/index.m3u8
+
 北京卫视,http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 北京卫视,http://39.134.67.108/PLTV/88888888/224/3221225931/1.m3u8
@@ -344,6 +341,10 @@ TVB亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist
 YCTV[1920*1080],http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
 大爱1台[1280*720],https://pulltv2.wanfudaluye.com/live/tv1.m3u8
 音乐欣赏[1280*720],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOaa4gUo_J_z6gI.mp4
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://113.64.145.195:8081/hls/36/index.m3u8
+凤凰中文,http://113.64.145.195:8081/hls/37/index.m3u8
+凤凰香港,http://113.64.145.195:8081/hls/38/index.m3u8
 香港電台(RTHK 34)[1024*576],https://livedoc.cgtn.com/1000d/prog_index.m3u8
 海峡两岸[1280*720],http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/93dafada4e35457788319f02f5063529/1200.m3u8
 CGNTV[1024*576],http://live.cgtn.com/1000/prog_index.m3u8
