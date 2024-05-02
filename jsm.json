@@ -390,7 +390,7 @@
       "key": "Lib",
       "name": "🌟立播┃直连",
       "type": 3,
-      "jar": "./lib/fty.jar",
+      "jar": "https://raw.githubusercontent.com/qilegeguai/cr/main/pg.jar",
       "api": "csp_Libvio",
       "timeout": 15,
       "searchable": 1,
