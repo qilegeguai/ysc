@@ -105,7 +105,7 @@
     },
 {
 	"key": "nangua",
-	"name": "🎦南瓜",
+	"name": "南瓜剧场",
 	"type": 3,
 	"playerType": "2",
 	 "jar": "./lib/cv.jar",
@@ -113,11 +113,11 @@
 	"ext": "./lib/南瓜.js"
 },     
        
-  {"key":"drpy_js_菜狗","name":"🎦菜狗","type":3,"playerType":2, "jar": "./lib/cv.jar","api":"./lib/drpy2.min.js","ext":"./lib/菜狗.js"}, 
+  {"key":"drpy_js_菜狗","name":"菜狗","type":3,"playerType":2, "jar": "./lib/cv.jar","api":"./lib/drpy2.min.js","ext":"./lib/菜狗.js"}, 
      
         {
 		"key": "cjzy_360资源",
-		"name": "🧭卫士",
+		"name": "360影院",
 		"type": 1,
 		 "jar": "./lib/cv.jar",
 		"api": "https://360zy.com/api.php/provide/vod",
@@ -127,18 +127,18 @@
 	
 	{
 		"key": "app_嘛艺",
-		"name": "🎦嘛艺",
+		"name": "蚂蚁影院",
 		"type": 3,
 		 "jar": "./lib/cv.jar",
 		"api": "csp_AppYsV2",
 		"ext": "http://122.228.84.103:5822/api.php/app/"
 	},
-         {"key":"小镇","name":"🎦小镇","type":3,"api":"csp_XBPQ","searchable":1,"jar": "./lib/cv.jar","quickSearch":1,"filterable":1,"ext":{"主页url":"http://dyxz.tv","数组":"<div class=\"stui-vodlist__box\">&&</div>","图片":"data-original=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\"","副标题":"<span class=\"pic-text text-right\">&&</span>","搜索url":"http://dyxz.tv/search.php;post;searchword={wd}","搜索模式":"1","搜索数组":"<a class=\"v-thumb stui-vodlist__thumb&&</a>","搜索图片":"data-original=\"&&\"","搜索标题":"title=\"&&\"","搜索链接":"href=\"&&\"","搜索副标题":"<span class=\"pic-text text-right\">&&</span>","搜索后缀":"/view/","线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","播放数组":"<ul class=\"stui-content__playlist clearfix&&</ul>","影片年代":"年份：&&</p>","影片地区":"地区：&&<span","影片类型":"类型：&&</a>","导演":"导演：&&</p>","主演":"主演：&&</p>","简介":"更新：&&</p>","播放列表":"<a&&/a>","播放标题":">&&<","播放链接":"href=\"&&\"","免嗅":"0","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
-             {"key":"rebo","name":"🎦热播","type":3,"api":"csp_YMZ","playerType":2, "jar": "./lib/cv.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.rbotv.cn"},
+         {"key":"小镇","name":"电影小镇","type":3,"api":"csp_XBPQ","searchable":1,"jar": "./lib/cv.jar","quickSearch":1,"filterable":1,"ext":{"主页url":"http://dyxz.tv","数组":"<div class=\"stui-vodlist__box\">&&</div>","图片":"data-original=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\"","副标题":"<span class=\"pic-text text-right\">&&</span>","搜索url":"http://dyxz.tv/search.php;post;searchword={wd}","搜索模式":"1","搜索数组":"<a class=\"v-thumb stui-vodlist__thumb&&</a>","搜索图片":"data-original=\"&&\"","搜索标题":"title=\"&&\"","搜索链接":"href=\"&&\"","搜索副标题":"<span class=\"pic-text text-right\">&&</span>","搜索后缀":"/view/","线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","播放数组":"<ul class=\"stui-content__playlist clearfix&&</ul>","影片年代":"年份：&&</p>","影片地区":"地区：&&<span","影片类型":"类型：&&</a>","导演":"导演：&&</p>","主演":"主演：&&</p>","简介":"更新：&&</p>","播放列表":"<a&&/a>","播放标题":">&&<","播放链接":"href=\"&&\"","免嗅":"0","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
+             {"key":"rebo","name":"热播剧场","type":3,"api":"csp_YMZ","playerType":2, "jar": "./lib/cv.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.rbotv.cn"},
              
                    {
       "key": "csp_红狐狸影视",
-      "name": "🎦狐狸",
+      "name": "红狐狸",
       "type": 3,
       "api": "csp_XBPQ",
 	 "jar": "./lib/cv.jar",		   
@@ -150,7 +150,7 @@
          
          {
             "key": "csp_秒播",
-            "name": "🎦秒播",
+            "name": "米其林秒播",
             "type": 3,
             "api": "csp_XBPQ",
            "jar": "./lib/cv.jar",
@@ -191,15 +191,15 @@
   "免嗅": "0" 
 }},
  
-  {"key":"csp_SP360","name":"🎦360","type":3,
+  {"key":"csp_SP360","name":"剧场360","type":3,
 "playerType":2,
 "api":"csp_SP360","jar": "./lib/cv.jar","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
    
- {"key":"csp_Ikanbot","name": "👾机器","type": 3,"api": "csp_Ikanbot", "jar": "./lib/cv.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.ikanbot.com"},
+ {"key":"csp_Ikanbot","name": "星月剧院","type": 3,"api": "csp_Ikanbot", "jar": "./lib/cv.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.ikanbot.com"},
       
 {
     "key":"csp_XBPQ_kan",
-    "name":"🎦爱看",
+    "name":"爱看影院",
     "type":3,
     "api":"csp_XBPQ",
     "jar": "./lib/cv.jar", 
@@ -217,7 +217,7 @@
     \"分类url\":\"https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
     {
             "key": "csp素白",
-            "name": "🎦素白",
+            "name": "小白影视",
             "type": 3,
             "api": "csp_XBPQ",
 	     "jar": "./lib/cv.jar",
