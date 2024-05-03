@@ -360,7 +360,7 @@
       "key": "YGP",
       "name": "🚀叨观荐影┃新片",
       "type": 3,
-      "jar": "./lib/me.jar", 
+      "jar": "./lib/fty.jar", 
       "api": "csp_YGP",
       "searchable": 0,
       "quickSearch": 0,
