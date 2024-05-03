@@ -295,18 +295,18 @@
       "changeable": 1,
       "ext": "https://www.czys03.com/"
     },
-    {
+   {
       "key": "南瓜",
-      "name": "🎃南瓜┃App",
+      "name": "🎃南瓜┃直连",
       "type": 3,
-        "jar": "./lib/me.jar",
-      "api": "csp_NanGua",
-      "timeout": 15,
-      "playerType": 2,
+       "jar": "./lib/me.jar",	    
+      "api": "csp_Nangua",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "filterable": 1,
+      "timeout": 10
     },
+
     {
       "key": "农民",
       "name": "🌾农民┃秒播",
