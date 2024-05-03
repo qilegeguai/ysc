@@ -356,16 +356,7 @@
   "ext": "./lib/欧乐影院[飞].js"
 },
 	 
-    {
-      "key": "YGP",
-      "name": "🚀叨观荐影┃新片",
-      "type": 3,
-      "jar": "./lib/fty.jar", 
-      "api": "csp_YGP",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+
     {
       "key": "短剧",
       "name": "🌈上头┃短剧",
@@ -1982,6 +1973,14 @@
       "type": 3,
       "url": "Web"
     },
+	 {"name":"自动解析","type":3,"url":"Demo"},
+ 
+            
+           
+{"name":"MeowTV","type":1,"url":"http://jx.meowtv.cn/?url="},
+
+{"name":"🌎圆圆","type":1,"url":"http://121.62.61.51:6888/api/?key=eIQ9JzXVIzkY3ZSoEZ&url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"🌎my","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2334&my=fhloqstzDIKLMORTZ9&url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}}, 
 	  {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 			{"name":"杰森","type":0,"url":"https://jx.jsonplayer.com/player/?url="}, 
 			{"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url="},
@@ -1996,6 +1995,38 @@
 			{"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="},
 			{"name":"FreeOK","type":0,"url":"https://play.86516.tk/OKPlayer/?url="},
 			{"name":"free","type":0,"url":"https://h5.freejson.xyz/player/?url="},
+	    {
+            "name": "夜幕",
+            "url": "./lib/夜幕.js?url=",
+            "type": 1,
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "imgo",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "qq 预告及花絮",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "mgtv",
+                    "芒果",
+                    "sohu",
+                    "xigua",
+                    "fun",
+                    "风行"
+                ]
+            },
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
     {
       "name": "-咸鱼-",
       "type": 0,
