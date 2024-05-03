@@ -202,7 +202,7 @@
     "name":"🎦爱看",
     "type":3,
     "api":"csp_XBPQ",
-	 "jar": "./lib/cv.jar",
+    "jar": "./lib/cv.jar", 
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
