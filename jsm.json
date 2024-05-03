@@ -284,16 +284,14 @@
     },
     {
       "key": "厂长",
-      "name": "📔厂长┃无广",
+      "name": "🌸厂长┃直连",
       "type": 3,
-      "jar": "./lib/fty.jar",
-      "api": "csp_Czsapp",
-      "timeout": 15,
-      "playerType": 2,
+	"jar": "./lib/me.jar",    
+      "api": "csp_Czzy",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czys03.com/"
+      "filterable": 1,
+      "timeout": 25
     },
    {
       "key": "南瓜",
