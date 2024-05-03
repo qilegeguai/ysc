@@ -103,7 +103,158 @@
       "jar": "./lib/xc14.jar",
       "searchable": 0
     },
+{
+	"key": "nangua",
+	"name": "🎦南瓜",
+	"type": 3,
+	"playerType": "2",
+	 "jar": "./lib/cv.jar",
+	"api": "./lib/drpy1.min.js",
+	"ext": "./lib/南瓜.js"
+},     
+       
+  {"key":"drpy_js_菜狗","name":"🎦菜狗","type":3,"playerType":2, "jar": "./lib/cv.jar","api":"./lib/drpy2.min.js","ext":"./lib/菜狗.js"}, 
+     
+        {
+		"key": "cjzy_360资源",
+		"name": "🧭卫士",
+		"type": 1,
+		 "jar": "./lib/cv.jar",
+		"api": "https://360zy.com/api.php/provide/vod",
+		"playUrl": "",
+		"categories": ["国产剧", "国产动漫", "香港剧", "台湾剧", "欧美剧", "日韩动漫", "NBA", "短片", "西部片", "综艺片", "动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "惊悚片", "悬疑片", "犯罪片", "剧情片", "战争片", "家庭篇", "记录片", "历史片", "动漫片", "大陆综艺", "港台综艺"]
+	}, 
+	
+	{
+		"key": "app_嘛艺",
+		"name": "🎦嘛艺",
+		"type": 3,
+		 "jar": "./lib/cv.jar",
+		"api": "csp_AppYsV2",
+		"ext": "http://122.228.84.103:5822/api.php/app/"
+	},
+         {"key":"小镇","name":"🎦小镇","type":3,"api":"csp_XBPQ","searchable":1,"jar": "./lib/cv.jar","quickSearch":1,"filterable":1,"ext":{"主页url":"http://dyxz.tv","数组":"<div class=\"stui-vodlist__box\">&&</div>","图片":"data-original=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\"","副标题":"<span class=\"pic-text text-right\">&&</span>","搜索url":"http://dyxz.tv/search.php;post;searchword={wd}","搜索模式":"1","搜索数组":"<a class=\"v-thumb stui-vodlist__thumb&&</a>","搜索图片":"data-original=\"&&\"","搜索标题":"title=\"&&\"","搜索链接":"href=\"&&\"","搜索副标题":"<span class=\"pic-text text-right\">&&</span>","搜索后缀":"/view/","线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","播放数组":"<ul class=\"stui-content__playlist clearfix&&</ul>","影片年代":"年份：&&</p>","影片地区":"地区：&&<span","影片类型":"类型：&&</a>","导演":"导演：&&</p>","主演":"主演：&&</p>","简介":"更新：&&</p>","播放列表":"<a&&/a>","播放标题":">&&<","播放链接":"href=\"&&\"","免嗅":"0","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
+             {"key":"rebo","name":"🎦热播","type":3,"api":"csp_YMZ","playerType":2, "jar": "./lib/cv.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.rbotv.cn"},
+             
+                   {
+      "key": "csp_红狐狸影视",
+      "name": "🎦狐狸",
+      "type": 3,
+      "api": "csp_XBPQ",
+	 "jar": "./lib/cv.jar",		   
+      "ext": {
+        "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
+         
+         {
+            "key": "csp_秒播",
+            "name": "🎦秒播",
+            "type": 3,
+            "api": "csp_XBPQ",
+           "jar": "./lib/cv.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {"分类": "国产剧&国产动漫&电影&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧", 
+  "分类值": "14&75&1&26&36&25&30&23&69&15&16&62", 
+  "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}", 
+  "数组二次截取": "list\":[&&]", 
+  "数组": "{&&}[不包含:]", 
+  "图片": "vod_pic\":\"&&\"", 
+  "标题": "vod_name\":\"&&\"", 
+  "副标题": "+vod_remarks\":\"&&\"", 
+  "链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,", 
+  "搜索url": "https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}", 
+  "搜索模式": "1", 
+  "搜索二次截取": "list\":[&&]", 
+  "搜索数组": "{&&}[不包含:]", 
+  "搜索图片": "vod_pic\"*\"&&\"", 
+  "搜索标题": "vod_name\"*\"&&\"", 
+  "搜索副标题": "type_name\":\"&&\"", 
+  "搜索链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,", 
+  "影片类型": "vod_class\"*\"&&\"", 
+  "导演": "vod_director\"*\"&&\"", 
+  "主演": "vod_actor\"*\"&&\"", 
+  "简介":  "vod_content\"*\"&&\"", 
+  "线路二次截取": "\"list\":[&&]", 
+  "线路数组": "<h3 class=\"title\">&&</h3>[排序:播放线路3>播放线路2>播放线路4>播放线路5>播放线路6>播放线路1>]", 
+  "线路标题": "夜泊金沙+>播放线路</h3>", 
+  "播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]", 
+  "播放二次截取": "", 
+  "播放列表": "表&&表", 
+  "播放标题": "题&&题", 
+  "播放链接": "链&&链", 
+  "嗅探词": ".m3u8", 
+  "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad", 
+  "免嗅": "0" 
+}},
+ 
+  {"key":"csp_SP360","name":"🎦360","type":3,
+"playerType":2,
+"api":"csp_SP360","jar": "./lib/cv.jar","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+   
+ {"key":"csp_Ikanbot","name": "👾机器","type": 3,"api": "csp_Ikanbot", "jar": "./lib/cv.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.ikanbot.com"},
+      
+{
+    "key":"csp_XBPQ_kan",
+    "name":"🎦爱看",
+    "type":3,
+    "api":"csp_XBPQ",
+	 "jar": "./lib/cv.jar",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{
+    \"主演\":\"主演：&&</div>\",
+    \"简介\":\"<p>&&<p>\",
+    \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
+    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
+    \"线路标题\":\"<span>&&</small>[不包含:夸克4K]\",
+    \"播放数组\":\"class=\\\"module-play-list&&</div>\",
+    \"分类\":\"电影$1#电视剧$2#动漫$4#综艺$3\",
+    \"分类url\":\"https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
+    {
+            "key": "csp素白",
+            "name": "🎦素白",
+            "type": 3,
+            "api": "csp_XBPQ",
+	     "jar": "./lib/cv.jar",
+            "playerType": "1",
+            "ext": {
+                "站名": "素白白影视",
+                "主页url": "https://www.subaibaiys.com",
+                "请求头": "Referer$https://www.subaibaiys.com/#Cookie$__51vcke__JkC3MdljYqnA6RwM=dc651fb5-c227-59f1-bb47-f9fa6f7ac8b0; __51vuft__JkC3MdljYqnA6RwM=1689856812283; myannoun=1; __51uvsct__JkC3MdljYqnA6RwM=3; Hm_lvt_1e486798fa22a371daf12107dc56f374=1690021969,1692584241; wpdiscuz_nonce_3eba096b078f0a37442e539506ddc5ea=6e04c4f360; esc_search_captcha=1; result=40; __vtins__JkC3MdljYqnA6RwM=%7B%22sid%22%3A%20%221e0edb96-98b2-5866-8147-e5ccea838ce3%22%2C%20%22vd%22%3A%205%2C%20%22stt%22%3A%201973422%2C%20%22dr%22%3A%2012475%2C%20%22expires%22%3A%201692588014577%2C%20%22ct%22%3A%201692586214577%7D; Hm_lpvt_1e486798fa22a371daf12107dc56f374=1692586215",
+                "分类": "电影&电视剧&热门电影&高分电影&动漫电影&香港经典电影&国产剧&欧美剧&韩剧&动漫剧",
+                "分类值": "new-movie&tv-drama&hot-month&high-movie&cartoon-movie&hongkong-movie&domestic-drama&american-drama&korean-drama&anime-drama",
+                "分类url": "https://www.subaibaiys.com/{cateId}/page/{catePg};;aks2",
+                "数组": "<li>&&</li>",
+                "图片": "data-original=\"&&\"",
+                "副标题": "class=\"jidi\"><span>&&</span>",
+                "搜索模式": "1",
+                "搜索url": "https://www.subaibaiys.com/?s={wd}",
+                "搜索图片": "data-original=\"&&\"",
+                "影片年代": "年份：&&</li>",
+                "影片地区": "地区：&&</li>",
+                "影片类型": "类型：&&</li>",
+                "导演": "导演：&&</li>",
+                "主演": "主演：&&</li>",
+                "嗅探词": ".m3u8#.mp4#/m3/",
+                "简介": "yp_context\">&&</p>",
+                "线路数组": "mi_paly_box\">&&</div>",
+                "线路标题": "ypxingq_t\">&&<span>",
+                "播放数组": "<div class=\"paly_list_btn\">&&</div>",
+                "播放列表": "<a&&/a>",
+                "播放标题": ">&&<[替换:立即播放>>空]",
+                "播放链接": "href=\"&&\""
+            }
+        },      
 
+
+
+
+	  
  {
    "key": "meowtv_qyyy",
    "name": "奇优┃影视",
