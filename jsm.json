@@ -1997,32 +1997,32 @@
 
 {"name":"夜泊金沙一线","type":1,"url":"http://121.62.61.51:6888/api/?key=eIQ9JzXVIzkY3ZSoEZ&url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"夜泊金沙二线","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2334&my=fhloqstzDIKLMORTZ9&url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}}, 
-	  {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-			{"name":"杰森","type":0,"url":"https://jx.jsonplayer.com/player/?url="}, 
-			{"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url="},
-			{"name":"ok","type":0,"url":"https://okjx.cc/?url="},
-			{"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
-			{"name":"不累","type":0,"url":"https://blbfq.f3322.net/player/analysis.php?v=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
-			{"name":"cod","type":0,"url":"https://ksksl.codjx.com/?url="},
-			{"name":"byg解析","type":0,"url":"https://byg.ziqj5.shop/?url="},
-			{"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
-			{"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-			{"name":"26db","type":0,"url":"http://vip.26db.cn/g/?url="},
-			{"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="},
-			{"name":"FreeOK","type":0,"url":"https://play.86516.tk/OKPlayer/?url="},
-			{"name":"free","type":0,"url":"https://h5.freejson.xyz/player/?url="},
+	  {"name":"夜泊金沙尊享一线","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+			{"name":"夜泊金沙独享一线","type":0,"url":"https://jx.jsonplayer.com/player/?url="}, 
+			{"name":"夜泊金沙至尊专线","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+			{"name":"夜泊金沙至臻专线","type":0,"url":"https://okjx.cc/?url="},
+			{"name":"夜泊金沙蓝光一线","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
+			{"name":"夜泊金沙HD专线","type":0,"url":"https://blbfq.f3322.net/player/analysis.php?v=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+			{"name":"夜泊金沙高清直线","type":0,"url":"https://ksksl.codjx.com/?url="},
+			{"name":"夜泊金沙高速专线","type":0,"url":"https://byg.ziqj5.shop/?url="},
+			{"name":"夜泊金沙独播一线","type":0,"url":"https://jx.xmflv.com/?url="},
+			{"name":"夜泊金沙独播二线","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+			{"name":"夜泊金沙蓝光二线","type":0,"url":"http://vip.26db.cn/g/?url="},
+			{"name":"夜泊金沙高清二线","type":0,"url":"https://jx.m3u8.pw/?url="},
+			{"name":"夜泊金沙高清三线","type":0,"url":"https://play.86516.tk/OKPlayer/?url="},
+			{"name":"夜泊金沙至尊二线","type":0,"url":"https://h5.freejson.xyz/player/?url="},
 	      {
-      "name": "解析1",
+      "name": "夜泊金沙独享二线",
       "type": 1,
       "url": "http://119.91.123.253:2345/Api/yun.php?url="
     },
     {
-      "name": "超嗅探",
+      "name": "夜泊金沙高速二线",
       "type": 3,
       "url": "Web"
     },
     {
-      "name": "蚂蚁1",
+      "name": "夜泊金沙超级专线",
       "type": 0,
       "url": "https://p.orangek.org/player/ec.php?code=qw&if=1&url=",
       "ext": {
@@ -2035,7 +2035,7 @@
       }
     },
     {
-      "name": "蚂蚁2",
+      "name": "夜泊金沙1080p专线",
       "type": 0,
       "url": "http://103.233.255.142:1133/?url=",
       "ext": {
@@ -2048,7 +2048,7 @@
       }
     },
     {
-      "name": "宝盒",
+      "name": "夜泊金沙1080HD专线",
       "type": 1,
       "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
       "ext": {
@@ -2083,7 +2083,7 @@
       }
     },
     {
-      "name": "宝盒2",
+      "name": "夜泊金沙蓝光三线",
       "type": 1,
       "url": "http://119.91.123.253:2345/Api/yun.php?url=",
       "ext": {
@@ -2129,17 +2129,17 @@
       }
     },
     {
-      "name": "解析1",
+      "name": "夜泊金沙蓝光四线",
       "type": 1,
       "url": "https://cache.json.icu/8520.php?url="
     },
     {
-      "name": "解析2",
+      "name": "夜泊金沙蓝光五线",
       "type": 1,
       "url": "http://119.91.123.253:2345/Api/yun.php?url="
     },
     {
-      "name": "赛文",
+      "name": "夜泊金沙独享三线",
       "type": 1,
       "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
       "ext": {
@@ -2152,42 +2152,42 @@
       }
     },
     {
-      "name": "西瓜1",
+      "name": "夜泊金沙高清线路",
       "type": 0,
       "url": "https://t1.qlplayer.cyou/player/analysis.php?v="
     },
     {
-      "name": "西瓜2",
+      "name": "夜泊金沙高清线路二",
       "type": 0,
       "url": "https://t1.qlplayer.cyou/player/?url="
     },
     {
-      "name": "初恋1",
+      "name": "夜泊金沙1080专线三",
       "type": 0,
       "url": "https://ys.zf520.cn/addons/dp/player/index.php?key=0&url="
     },
     {
-      "name": "初恋2",
+      "name": "夜泊金沙1080专线四",
       "type": 0,
       "url": "https://ys.zf520.cn/addons/dp/player/dp.php?key=0&from=&id=&api=&url="
     },
     {
-      "name": "嗅探1",
+      "name": "夜泊金沙1080专线五",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url="
     },
     {
-      "name": "嗅探2",
+      "name": "夜泊金沙HD蓝光一线",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
     },
     {
-      "name": "嗅探3",
+      "name": "夜泊金沙HD蓝光二线",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
     },
     {
-      "name": "观音解析",
+      "name": "夜泊金沙HD蓝光三线",
       "type": 1,
       "url": "http://61.147.93.21:8090/index.php?url=",
       "ext": {
@@ -2230,7 +2230,7 @@
       }
     },
     {
-      "name": "茶杯解析",
+      "name": "金沙独享线路",
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
       "ext": {
@@ -2273,7 +2273,7 @@
       }
     },
     {
-      "name": "盖碗解析",
+      "name": "金沙至尊线路",
       "type": 1,
       "url": "http://119.91.123.253:1234/Api/cs.php?url=2449&my=acfgikquvzFGJRW459&url=",
       "ext": {
@@ -2301,17 +2301,17 @@
       }
     },
     {
-      "name": "白茶嗅探",
+      "name": "夜泊金沙独播A",
       "url": "https://jx.bozrc.com:4433/player/?url=",
       "showType": 1
     },
     {
-      "name": "滇红嗅探",
+      "name": "夜泊金沙独播B",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
     },
     {
-      "name": "毛尖嗅探",
+      "name": "夜泊金沙独播C",
       "type": 0,
       "url": "https://jx.bozrc.com:4433/player/?url=",
       "ext": {
@@ -2347,7 +2347,7 @@
       "url": "http://www.miaoys.cc/vip/?url="
     },
     {
-      "name": "岩茶嗅探",
+      "name": "夜泊金沙独播D",
       "type": 0,
       "url": "https://jx.ppjbk.cn/?url=",
       "ext": {
@@ -2357,12 +2357,12 @@
       }
     },
     {
-      "name": "小种嗅探",
+      "name": "夜泊金沙独播E",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url="
     },
     {
-      "name": "普洱嗅探",
+      "name": "夜泊金沙vip专线",
       "url": "https://jx.bozrc.com:4433/player/?url=",
       "type": 0,
       "ext": {
@@ -2396,7 +2396,7 @@
       }
     },
 	  {
-          "name": "红茶嗅探",
+          "name": "夜泊金沙vip独播二线",
           "type": 0,
           "url": "https://jx.4kdv.com/?url=",
           "ext": {
@@ -2427,7 +2427,7 @@
           }
         },
 	    {
-            "name": "夜幕",
+            "name": "夜泊金沙蓝光独播",
             "url": "./lib/夜幕.js?url=",
             "type": 1,
             "ext": {
@@ -2459,7 +2459,7 @@
             }
         },
     {
-      "name": "-咸鱼-",
+      "name": "夜泊金沙独播二线",
       "type": 0,
       "url": "https://jx.xyflv.cc/?url=",
       "ext": {
@@ -2470,7 +2470,7 @@
       }
     },
     {
-      "name": "-虾米-",
+      "name": "夜泊金沙-至尊线路",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -2480,7 +2480,7 @@
       }
     },
     {
-      "name": "-爱酷-",
+      "name": "夜泊金沙-蓝光线路",
       "type": 0,
       "url": "https://jx.zhanlangbu.com/?url=",
       "ext": {
@@ -2511,7 +2511,7 @@
       }
     },
     {
-      "name": "-云解析-",
+      "name": "夜泊金沙-HD-四线",
       "type": 0,
       "url": "https://jx.yparse.com/index.php?url=",
       "ext": {
@@ -2521,7 +2521,7 @@
       }
     },
     {
-      "name": "-777-",
+      "name": "夜泊金沙-HD-二线",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url=",
       "ext": {
@@ -2531,7 +2531,7 @@
       }
     },
     {
-      "name": "-剖云-",
+      "name": "夜泊金沙-HD-二线",
       "type": 0,
       "url": "https://www.kkvip2022.com/vip/jiexi1/?url=",
       "ext": {
@@ -2541,7 +2541,7 @@
       }
     },
     {
-      "name": "-全看-",
+      "name": "夜泊金沙-HD-五线",
       "type": 0,
       "url": "https://jx.quankan.app/?url=",
       "ext": {
@@ -2551,7 +2551,7 @@
       }
     },
     {
-      "name": "-爱豆-",
+      "name": "夜泊金沙HD蓝光八线",
       "type": 0,
       "url": "https://jx.aidouer.net/?url=",
       "ext": {
@@ -2562,12 +2562,12 @@
       }
     },
     {
-      "name": "飞云",
+      "name": "夜泊金沙HD专享三线",
       "type": 1,
       "url": "http://122.228.84.103:7777/api/?key=lEoJRrX01Drg8Of5aA&url="
     },
     {
-      "name": "春莹解析",
+      "name": "夜泊金沙HD专享五线",
       "type": 1,
       "url": "http://119.91.123.253:2345/Api/yun.php?url=",
       "ext": {
@@ -2613,7 +2613,7 @@
       }
     },
     {
-      "name": "🌎云解析",
+      "name": "夜泊金沙超高清四",
       "type": 1,
       "url": "http://119.91.123.253:2345/Api/yun.php?url=",
       "ext": {
@@ -2650,17 +2650,17 @@
       }
     },
     {
-      "name": "超级1",
+      "name": "夜泊金沙超高清二",
       "type": 1,
       "url": "https://api.json.icu/api/?key=0bfb59b5928233f5665db10ebcade96f&url="
     },
     {
-      "name": "超级2",
+      "name": "夜泊金沙超高清一",
       "type": 1,
       "url": "https://py.newdays.cc/lunxun/json.php?url="
     },
     {
-      "name": "★全能嗅探★",
+      "name": "夜泊金沙超高清",
       "type": 0,
       "url": "https://www.youleshi.cn/player/?url=",
       "ext": {
@@ -2673,7 +2673,7 @@
       }
     },
     {
-      "name": "🌎DB",
+      "name": "夜泊金沙HD独享",
       "type": 1,
       "url": "http://119.91.123.253:2345/Api/yun.php?url=",
       "ext": {
