@@ -102,8 +102,8 @@ CCTV-17农业农村,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 CCTV-6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV-10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV-文化精品,http://113.64.145.195:8081/hls/33/index.m3u8
-CCTV发现之旅,http://117.44.0.158:20000/hls/65/index.m3u8
-CCTV发现之旅,http://117.44.1.97:20000/hls/65/index.m3u8
+CCTV-发现之旅,http://117.44.0.158:20000/hls/65/index.m3u8
+CCTV-发现之旅,http://117.44.1.97:20000/hls/65/index.m3u8
 CCTV-4K 超高清[3840*2160],https://epg.pw/stream/14061ea886df6edfb76d8015ef8df852acbce8d4d862909db2279d3b3387cd9c.m3u8
 CCTV-4K 超高清[3840*2160],https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV-4K 超高清[3840*2160],http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
