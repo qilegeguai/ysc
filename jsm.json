@@ -460,14 +460,16 @@
     },
     {
       "key": "厂长",
-      "name": "🌸厂长┃直连",
+      "name": "喵播",
       "type": 3,
-	"jar": "./lib/fty.jar",    
-      "api": "csp_Czzy",
+       "jar": "./lib/fty.jar",    
+      "api": "csp_NewCz",
+      "timeout": 15,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 25
+      "changeable": 1,
+      "ext": "https://czzy.top/"
     },
    {
       "key": "南瓜",
