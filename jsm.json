@@ -30,9 +30,9 @@
 				"logo": "https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "直播五线",
+				"name": "春盈天下",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+				"url": "https://files.catbox.moe/feyax3.txt",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
