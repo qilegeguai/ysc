@@ -130,6 +130,16 @@
 	"api": "./lib/drpy1.min.js",
 	"ext": "./lib/南瓜.js"
 },    
+{
+            "key": "T4-hme",
+            "name": "黑木耳(T4)",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/hme",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },	  
     {
       "key": "🍀 RARBT | JAR",
       "name": "BT影视",
