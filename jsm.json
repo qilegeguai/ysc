@@ -135,17 +135,151 @@
             "name": "黑木耳(T4)",
             "type": 4,
             "api": "https://tang.hz.cz/power/hme",
+	    "jar": "./lib/fm.jar"
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
-        },	  
+        }, 
+	  {
+      "key": "csp_Kuaikan",
+      "name": "🐴快看┃直连",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/dongchen.jar"
+    },	
+	      {
+      "key": "农民影视",
+      "name": "💡农民┃影视",
+      "type": 3,
+      "api": "csp_WexNmys",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./lib/ou.jar"
+    },
+    {
+      "key": "nangua",
+      "name": "🎃南瓜┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "./lib/ng_open.js"
+      "jar": "./lib/fm.jar"    
+    },
+    {
+      "key": "比特",
+      "name": "✌️比特┃影视",
+      "type": 3,
+      "api": "csp_Bttwo"
+      "jar": "./lib/fm.jar"  
+    },
+    {
+      "key": "黑木耳资源",
+      "name": "🥑木耳┃蓝光",
+      "type": 1,
+      "api": "https://json.heimuer.tv/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./lib/fm.jar"    
+      "categories": [
+        "国产剧",
+        "韩剧",
+        "动画电影",
+        "网络电影",
+        "动作",
+        "冒险",
+        "爱情",
+        "虐恋",
+        "逆袭",
+        "穿越",
+        "重生",
+        "港剧",
+        "泰剧",
+        "日剧",
+        "欧美剧",
+        "国产综艺",
+        "韩国综艺",
+        "日本综艺",
+        "欧美综艺",
+        "奇幻",
+        "灾难",
+        "科幻",
+        "恐怖",
+        "剧情",
+        "战争",
+        "喜剧"
+      ]
+    },
+    {
+      "key": "New6v",
+      "name": "🧲New6V┃磁力",
+      "type": 3,
+      "api": "csp_New6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.xb6v.com",
+      "jar": "./lib/ou.jar"
+    },
+    {
+      "key": "SeedHub",
+      "name": "🧲SeedHub┃磁力",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/ou.jar"
+    },
+    {
+      "key": "美剧迷",
+      "name": "🧲美剧┃磁力",
+      "type": 3,
+      "api": "csp_MeijuMi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/ou.jar"
+    },
+    {
+      "key": "迅雷吧",
+      "name": "🧲迅雷┃磁力",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/ou.jar"
+    },
+    {
+      "key": "Mp4电影",
+      "name": "🧲电影┃磁力",
+      "type": 3,
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/ou.jar"
+    },
+    {
+      "key": "酷吧电影",
+      "name": "🧲酷吧┃磁力",
+      "type": 3,
+      "api": "csp_KubaCL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/ou.jar"
+    },
     {
       "key": "🍀 RARBT | JAR",
       "name": "BT影视",
       "type": 3,
       "api": "csp_Rarbt",
-	     "jar": "./lib/c.jar",
+      "jar": "./lib/c.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
