@@ -204,7 +204,6 @@
       "name": "BT影视",
       "type": 3,
       "api": "csp_Rarbt",
-	     "jar": "./lib/c.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
