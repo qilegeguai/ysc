@@ -33,6 +33,11 @@ CCTV-16 奥林匹克,http://ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8#ht
 
 CCTV-17 农业农村,http://ott.mobaibox.com/PLTV/3/224/3221227578/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221227589/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221227639/index.m3u8
 CCTV-17 农业农村,http://ott.mobaibox.com/PLTV/3/224/3221227578/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221227589/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221228628/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221228642/index.m3u8
+CCTV-5+ 体育赛事,http://ott.mobaibox.com/PLTV/3/224/3221227381/index.m3u8
+CCTV-11 戏曲,http://ott.mobaibox.com/PLTV/3/224/3221227384/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221227524/index.m3u8
+CCTV-9 记录,http://ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221227659/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221227704/index.m3u8
+
+
 CCTV-2 财经,http://103.5.127.242:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4 国际社会,http://103.5.127.242:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7 军事,http://103.5.127.242:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
