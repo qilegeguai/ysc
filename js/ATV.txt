@@ -93,7 +93,7 @@ CCTV-4 国际社会,http://58.209.101.210:9901/tsfile/live/0004_1.m3u8?key=txipt
 CCTV-5 体育,http://58.209.101.210:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6 电影,http://58.209.101.210:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7 军事,http://58.209.101.210:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+ 体育赛事,http://1.69.74.111:9902/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+ 体育赛事,http://1.69.74.111:9902/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8 电视剧,http://58.209.101.210:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9 纪录,http://58.209.101.210:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10 科教,http://58.209.101.210:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
