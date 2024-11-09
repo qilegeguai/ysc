@@ -137,7 +137,7 @@
             "filterable": 1,
             "order_num": 0,
             "changeable": 0,
-	    "api": "./jgp/drpy.min.js",
+	    "api": "./api/drpy3.min.js",
 	    "jar": "./lib/spider.jar",
             "ext": "./js/guazi.js"
         },
