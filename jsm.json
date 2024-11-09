@@ -130,17 +130,7 @@
       "jar": "./lib/xc14.jar",
       "searchable": 0
     },
-{
-            "key": "摸鱼瓜子",
-            "name": "❤️瓜子┃蓝光┃纯净",
-            "type": 3,
-            "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-	    "api": "./api/drpy3.min.js",
-	    "jar": "./lib/spider.jar",
-            "ext": "./js/guazi.js"
-        },
+
 	{
             "key": "瓜子影视",
             "name": "🥥瓜子┃蓝光┃纯净",
