@@ -130,6 +130,17 @@
       "jar": "./lib/xc14.jar",
       "searchable": 0
     },
+{
+            "key": "摸鱼瓜子",
+            "name": "❤️瓜子┃蓝光┃纯净",
+            "type": 3,
+            "api": "./jpg/drpy.min.js",
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "./js/guazi.js"
+        },
+	  
     {
       "key": "nangua",
       "name": "🎃南瓜┃影视",
