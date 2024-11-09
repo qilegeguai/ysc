@@ -141,7 +141,16 @@
 	    "jar": "./lib/spider.jar",
             "ext": "./js/guazi.js"
         },
-	  
+	{
+            "key": "瓜子影视",
+            "name": "🥥瓜子┃蓝光┃纯净",
+            "type": 3,
+            "api": "csp_AppGZ",
+            "jar": "./lib/配置中心.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },  
     {
       "key": "nangua",
       "name": "🎃南瓜┃影视",
