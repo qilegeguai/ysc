@@ -135,6 +135,7 @@
             "name": "❤️瓜子┃蓝光┃纯净",
             "type": 3,
             "api": "./jpg/drpy.min.js",
+	    "jar": "./lib/spider.jar",
             "filterable": 1,
             "order_num": 0,
             "changeable": 0,
